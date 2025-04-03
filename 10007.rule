@@ -1,7 +1,7 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-03 09:38:48
+# 更新日期: 2025-04-03 22:19:47
 # 规则数量: 20132
 
 #广告奖励
@@ -1863,6 +1863,7 @@ Domain, ads-bid.l.doubleclick.net
 Domain, ads-bidder-api.twitter.com
 Domain, ads-bilek.com
 Domain, ads-brand-postback.unityads.unity3d.com
+Domain, ads-buf-nfl.yinzcam.com
 Domain, ads-by.madadsmedia.com
 Domain, ads-by.yieldselect.com
 Domain, ads-cdn.fptplay.net
@@ -5333,7 +5334,6 @@ Domain, advertur.ru
 Domain, advertwizard.com
 Domain, adverty.com
 Domain, adverum.lt
-Domain, adverweb.cjenm.com
 Domain, advg.agency
 Domain, advg.jp
 Domain, advgalaxy.com
