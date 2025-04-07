@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-04-06 22:17:38
-! 规则数量: 20523
+! Last modified: 2025-04-07 09:41:43
+! 规则数量: 20545
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -1048,6 +1048,7 @@
 ||ad-plus.cn^
 ||ad-plus.com.tr^
 ||ad-renderer-assets.ads.sportradar.com^
+||ad-resources.brandcdn.com^
 ||ad-reward.play.aiseet.atianqi.com^
 ||ad-ru-01.p.adserv.ai^
 ||ad-ru-02.p.adserv.ai^
@@ -2894,6 +2895,7 @@
 ||ads.co.com^
 ||ads.cobrad.com^
 ||ads.cocomobi.com^
+||ads.coingecko.com^
 ||ads.collegclub.com^
 ||ads.collegemix.com^
 ||ads.colombiaonline.com^
@@ -3604,7 +3606,9 @@
 ||ads.pro-market.net.edgesuite.net^
 ||ads.proboards.com^
 ||ads.proc.cc^
+||ads.prod.webservices.mozgcp.net^
 ||ads.prod.wifog.com^
+||ads.production-public.tubi.io^
 ||ads.production.travelaudience.com^
 ||ads.profitsdeluxe.com^
 ||ads.profootballtalk.com^
@@ -5455,6 +5459,7 @@
 ||adsrv.ea.com^
 ||adsrv.eacdn.com^
 ||adsrv.fashion.bg^
+||adsrv.hh.ru^
 ||adsrv.hpg.com.br^
 ||adsrv.iol.co.za^
 ||adsrv.keycaptcha.com^
@@ -6421,6 +6426,7 @@
 ||analytics.fsoft.com.vn^
 ||analytics.fuckingawesome.com^
 ||analytics.futuro360.com^
+||analytics.gadventures.com^
 ||analytics.ganji.com^
 ||analytics.getshogun.com^
 ||analytics.gismart.xyz^
@@ -6960,6 +6966,7 @@
 ||api.aurogon.intl.miui.com^
 ||api.autoads.asia^
 ||api.autocompleteplus.com^
+||api.avo.app^
 ||api.aws.parking.godaddy.com^
 ||api.axept.io^
 ||api.axiatraders.com^
@@ -7052,6 +7059,7 @@
 ||api.crazyrocket.io^
 ||api.crispadvertising.com^
 ||api.crittercism.com^
+||api.crm.mandmdirect.com^
 ||api.curation.ameba.jp^
 ||api.cxense.com^
 ||api.d.xiaomi.com^
@@ -7128,6 +7136,7 @@
 ||api.ftspecialist.exponea.com^
 ||api.fuseplatform.net^
 ||api.fyber.com^
+||api.gadgetgine.xyz^
 ||api.game-sdk.com^
 ||api.gameads.io^
 ||api.gameanalytics.com^
@@ -7160,6 +7169,7 @@
 ||api.hk.goforandroid.com^
 ||api.hoisin.hw.coocaatv.com^
 ||api.home.skysrt.com^
+||api.honeygain.com^
 ||api.hookupers.com^
 ||api.houston.advgo.net^
 ||api.htp.hubcloud.com.cn^
@@ -7196,6 +7206,7 @@
 ||api.inwemo.com^
 ||api.iperceptions.com^
 ||api.ipinfodb.com^
+||api.iproyal.com^
 ||api.ipstack.com^
 ||api.iris.tv^
 ||api.itaoxiaoshuo.com^
@@ -7206,6 +7217,7 @@
 ||api.jcpclick.com^
 ||api.jeeng.com^
 ||api.jetgadget.me^
+||api.jetgadget.xyz^
 ||api.joinmassive.com^
 ||api.jpush.cn^
 ||api.jsfc8.cn^
@@ -7363,11 +7375,13 @@
 ||api.parking.godaddy.com^
 ||api.parse.com^
 ||api.parsely.com^
+||api.pawns.app^
 ||api.pbbl.co^
 ||api.pbxai.com^
 ||api.pcloud.run^
 ||api.pcpitstop.com^
 ||api.pdbarea.com^
+||api.peer2profit.global^
 ||api.permutive.app^
 ||api.permutive.com^
 ||api.personaclick.com^
@@ -7383,7 +7397,6 @@
 ||api.playit2019.com^
 ||api.playtomic.com^
 ||api.plyair.com^
-||api.policeel.com^
 ||api.popin.cc^
 ||api.postscript.io^
 ||api.powr.com^
@@ -7623,6 +7636,7 @@
 ||api.vungle.com^
 ||api.vungle.com.edgekey.net^
 ||api.w.inmobi.com^
+||api.wavebrowser.co^
 ||api.webengage.com^
 ||api.webhop.me^
 ||api.webpush.jp^
@@ -7783,6 +7797,7 @@
 ||as1image1.adshuffle.com^
 ||as1image2.adshuffle.com^
 ||as2.adserverhd.com^
+||asadventure.tt.omtrdc.net^
 ||asap.ad7.com^
 ||asdkfjskl.guiliangtechnology.com^
 ||asearch.alicdn.com^
@@ -8947,6 +8962,7 @@
 ||clientsdk.bright-sdk.com^
 ||clientsdk.lum-sdk.io^
 ||clientsdk.luminati.io^
+||clientsdk.luminatinet.com^
 ||clifads.com^
 ||clips.coolerads.com^
 ||clk.madserving.com^
@@ -10027,7 +10043,6 @@
 ||fardeinvog.pro^
 ||fast.dunbradstreetinc.demdex.net^
 ||fast.main-click.shop^
-||fastadsonline.com^
 ||fastapi.net^
 ||fastdownload10.com^
 ||fastlane-adv.rubiconproject.com^
@@ -10825,6 +10840,7 @@
 ||imapi-sg.isnssdk.com^
 ||imdb.amazon-adsystem.com^
 ||imeds.ero-advertising.com^
+||img-1000736.ad-score.com^
 ||img-ad-nex.com^
 ||img-ad.oupeng.com^
 ||img-dyn-uap.iads.unity3d.com^
@@ -11580,6 +11596,7 @@
 ||marketing-ssl.upsight-api.com^
 ||marketingplatform.google.com^
 ||marlinads.g2afse.com^
+||mars.prod.ads.prod.webservices.mozgcp.net^
 ||marsads.com^
 ||masdk.3g.qq.com^
 ||mass-traffic.com^
@@ -11708,6 +11725,7 @@
 ||metrics-4.api.mediation.adxcorp.kr^
 ||metrics-api.librato.com^
 ||metrics.api.drift.com^
+||metrics.consumersadvocate.org^
 ||mexicoadschool.com^
 ||mfadsrvr.com^
 ||mg.adskeeper.co.uk^
@@ -11872,6 +11890,7 @@
 ||msads.net^
 ||msadsense.com^
 ||msadsscale.azureedge.net^
+||msadsscale.microsoft.com^
 ||msdk-files.webengage.com^
 ||msdk.rqmob.com^
 ||msdkcoll.emarbox.com^
@@ -12329,6 +12348,7 @@
 ||orvideo.adsafeprotected.com^
 ||oryj8-jzbmc.ads.tremorhub.com^
 ||os2-opensea.pro^
+||osm-ads-aka.delivery.roku.com^
 ||ot7.wagbridge.advertisement.tanx.com^
 ||otclick-adv.ru^
 ||otf.msn.com^
@@ -12979,6 +12999,7 @@
 ||prod-m-node-2111.ssp.advertising.com^
 ||prod-m-node-3111.ssp.advertising.com^
 ||prod-sponsoredads.mkt.zappos.com^
+||prod.ads.prod.webservices.mozgcp.net^
 ||prod.adspsp.com^
 ||prod.cm.publishers.advertising.a2z.com^
 ||prod.entry.video-ads.a2z.com^
@@ -15419,6 +15440,7 @@
 ||unified.adsafeprotected.com^
 ||unifiedbidding.ad.smaato.net^
 ||uniformadvantage.demdex.net^
+||uniformadvantage.tt.omtrdc.net^
 ||uniformadvantage3283141z.btttag.com^
 ||unindrisol.pro^
 ||union-philippines.com^
