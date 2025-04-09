@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-08 22:20:48
-# 规则数量: 20563
+# 更新日期: 2025-04-09 09:39:34
+# 规则数量: 20554
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -1332,6 +1332,7 @@ Domain, ad.yieldmanager.com
 Domain, ad.yieldx.com
 Domain, ad.yixin.im
 Domain, ad.ymcdn.org
+Domain, ad.yna.co.kr
 Domain, ad.yo88.net
 Domain, ad.yo88.tv
 Domain, ad.yo88.win
@@ -6544,7 +6545,7 @@ Domain, api.c-launcher.com
 Domain, api.c.avazunativeads.com
 Domain, api.callget.cn
 Domain, api.calltrackingmetrics.com
-Domain, api.campaigns.affinionservices.com
+Domain, api.campaigns.notino.com
 Domain, api.caroda.io
 Domain, api.cartsee.cartx.cloud
 Domain, api.cazamba.com
@@ -8622,7 +8623,6 @@ Domain, content.ad2iction.com
 Domain, content.adspynet.com
 Domain, content.adswag.nl
 Domain, content.directadvert.ru
-Domain, content.randstadsourceright.com
 Domain, contentrevolution.evolutionadv.it
 Domain, contextads.live
 Domain, contextuads.com
@@ -8869,7 +8869,6 @@ Domain, dart.l.doubleclick.net
 Domain, darvin-ec.ads.heytapmobi.com
 Domain, dasesu-daboci.pro
 Domain, dashapi.chartbeat.com
-Domain, dashboard-ui-bg.advisorengine.com
 Domain, dat2.ero-advertising.com
 Domain, data-canary.flurry.com
 Domain, data-cl-f.ads.oppomobile.com
@@ -9939,7 +9938,6 @@ Domain, go-sync.adxpremium.services
 Domain, go.ad1data.com
 Domain, go.ad2up.com
 Domain, go.ad2upapp.com
-Domain, go.advantage.zpg.co.uk
 Domain, go.adversal.com
 Domain, go.dlads.cn
 Domain, go.ero-advertising.com
@@ -10342,7 +10340,6 @@ Domain, imagazine.advertserve.com
 Domain, image.adsoftheworld.com
 Domain, image.adv.livedoor.com
 Domain, image.click.livedoor.com
-Domain, image.myriad-email.com
 Domain, imageads.sexmoney.com
 Domain, imageadvantage.net
 Domain, imagedvdreview.analytics.qlook.net
@@ -10710,7 +10707,6 @@ Domain, juicyads.me
 Domain, julupyi8.pro
 Domain, jumoxea0.pro
 Domain, jump.baidu.001union.com
-Domain, junxure-cdn-bg.advisorengine.com
 Domain, jupin.mediav.com
 Domain, jupiteringarounding.pro
 Domain, jusomuu6.pro
@@ -10909,8 +10905,6 @@ Domain, likeads.com
 Domain, limonads.net
 Domain, link-click.shop
 Domain, link.advancedsystemrepairpro.com
-Domain, link.advisorpedia.com
-Domain, link.thinkadvisor.com
 Domain, link4ads.com
 Domain, linkadstech.offerstrack.net
 Domain, linkadvdirect.com
@@ -11104,7 +11098,6 @@ Domain, main.rampidads.com
 Domain, mainadv.com
 Domain, mainebiz.advertserve.com
 Domain, majestictheme.pro
-Domain, mamba-bg.advisorengine.com
 Domain, mammut.vlion.cn
 Domain, manage.juicyads.com
 Domain, manageadv.cblogs.eu
@@ -13775,8 +13768,6 @@ Domain, showcase.cleverads.vn
 Domain, showmeyouradsnow.com
 Domain, siads.sv.publicus.com
 Domain, sicariimedia.rtb.adx1.com
-Domain, signal-r-hub-bg.advisorengine.com
-Domain, signal-r-hub-blue.advisorengine.com
 Domain, signup.advance.net
 Domain, sikisuu.pro
 Domain, sillysunrays.pro

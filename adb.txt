@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-04-08 22:20:48
-! 规则数量: 20563
+! Last modified: 2025-04-09 09:39:34
+! 规则数量: 20554
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -1811,6 +1811,7 @@
 ||ad.yieldx.com^
 ||ad.yixin.im^
 ||ad.ymcdn.org^
+||ad.yna.co.kr^
 ||ad.yo88.net^
 ||ad.yo88.tv^
 ||ad.yo88.win^
@@ -7023,7 +7024,7 @@
 ||api.c.avazunativeads.com^
 ||api.callget.cn^
 ||api.calltrackingmetrics.com^
-||api.campaigns.affinionservices.com^
+||api.campaigns.notino.com^
 ||api.caroda.io^
 ||api.cartsee.cartx.cloud^
 ||api.cazamba.com^
@@ -9101,7 +9102,6 @@
 ||content.adspynet.com^
 ||content.adswag.nl^
 ||content.directadvert.ru^
-||content.randstadsourceright.com^
 ||contentrevolution.evolutionadv.it^
 ||contextads.live^
 ||contextuads.com^
@@ -9348,7 +9348,6 @@
 ||darvin-ec.ads.heytapmobi.com^
 ||dasesu-daboci.pro^
 ||dashapi.chartbeat.com^
-||dashboard-ui-bg.advisorengine.com^
 ||dat2.ero-advertising.com^
 ||data-canary.flurry.com^
 ||data-cl-f.ads.oppomobile.com^
@@ -10418,7 +10417,6 @@
 ||go.ad1data.com^
 ||go.ad2up.com^
 ||go.ad2upapp.com^
-||go.advantage.zpg.co.uk^
 ||go.adversal.com^
 ||go.dlads.cn^
 ||go.ero-advertising.com^
@@ -10821,7 +10819,6 @@
 ||image.adsoftheworld.com^
 ||image.adv.livedoor.com^
 ||image.click.livedoor.com^
-||image.myriad-email.com^
 ||imageads.sexmoney.com^
 ||imageadvantage.net^
 ||imagedvdreview.analytics.qlook.net^
@@ -11189,7 +11186,6 @@
 ||julupyi8.pro^
 ||jumoxea0.pro^
 ||jump.baidu.001union.com^
-||junxure-cdn-bg.advisorengine.com^
 ||jupin.mediav.com^
 ||jupiteringarounding.pro^
 ||jusomuu6.pro^
@@ -11388,8 +11384,6 @@
 ||limonads.net^
 ||link-click.shop^
 ||link.advancedsystemrepairpro.com^
-||link.advisorpedia.com^
-||link.thinkadvisor.com^
 ||link4ads.com^
 ||linkadstech.offerstrack.net^
 ||linkadvdirect.com^
@@ -11583,7 +11577,6 @@
 ||mainadv.com^
 ||mainebiz.advertserve.com^
 ||majestictheme.pro^
-||mamba-bg.advisorengine.com^
 ||mammut.vlion.cn^
 ||manage.juicyads.com^
 ||manageadv.cblogs.eu^
@@ -14254,8 +14247,6 @@
 ||showmeyouradsnow.com^
 ||siads.sv.publicus.com^
 ||sicariimedia.rtb.adx1.com^
-||signal-r-hub-bg.advisorengine.com^
-||signal-r-hub-blue.advisorengine.com^
 ||signup.advance.net^
 ||sikisuu.pro^
 ||sillysunrays.pro^
