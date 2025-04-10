@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-10 09:39:08
-# 规则数量: 20565
+# 更新日期: 2025-04-10 22:20:00
+# 规则数量: 20566
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -9940,6 +9940,7 @@ Domain, google-shopping-v2.sapoapps.vn
 Domain, google-shopping.sapoapps.vn
 Domain, google.rtb.adx1.com
 Domain, googleads.e.doubleclick.net
+Domain, googleads.g.doubleclick-cn.net
 Domain, googleads.g.doubleclick.com
 Domain, googleads.g.doubleclick.net
 Domain, googleads.github.io
