@@ -494,6 +494,23 @@
 #推送服务
 ^0.0.0.0[[:space:]]android.push.126.net$
 ^0.0.0.0[[:space:]]httpdns.push.oppomobile.com$
+#一堆ads
+^0.0.0.0[[:space:]]ad.10010.com$
+^0.0.0.0[[:space:]]ad.12306.cn$
+^0.0.0.0[[:space:]]ad.3.cn$
+^0.0.0.0[[:space:]]ad.alimama.com$
+^0.0.0.0[[:space:]]ad.ourgame.com$
+^0.0.0.0[[:space:]]ad.thsi.cn$
+^0.0.0.0[[:space:]]ad.vivo.com.cn$
+^0.0.0.0[[:space:]]ad4.on.cc$
+^0.0.0.0[[:space:]]addon.dismall.com$
+^0.0.0.0[[:space:]]adjs.8591.com.tw$
+^0.0.0.0[[:space:]]adnet.qq.com$
+^0.0.0.0[[:space:]]adnxs.com$
+^0.0.0.0[[:space:]]adobedtm.com$
+^0.0.0.0[[:space:]]ads.lingxing.com$
+^0.0.0.0[[:space:]]ads.privacy.qq.com$
+^0.0.0.0[[:space:]]ads.tiktok.com$
 
 #放到iptables屏蔽的域名
 #或者不要的网页广告
