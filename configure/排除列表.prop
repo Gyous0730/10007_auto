@@ -491,7 +491,9 @@
 ^0.0.0.0[[:space:]]sugs.m.sm.cn$
 #奇异果Tv
 ^0.0.0.0[[:space:]]sdk.ptqy.gitv.tv$
-
+#推送服务
+^0.0.0.0[[:space:]]android.push.126.net$
+^0.0.0.0[[:space:]]httpdns.push.oppomobile.com$
 
 #放到iptables屏蔽的域名
 #或者不要的网页广告
