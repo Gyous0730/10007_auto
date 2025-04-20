@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-20 09:46:29
-# 规则数量: 25045
+# 更新日期: 2025-04-20 22:18:40
+# 规则数量: 25046
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -6943,6 +6943,7 @@ Domain, api.afdback.ppsimg.com
 Domain, api.aff-online.com
 Domain, api.affinesystems.com
 Domain, api.affmates.com
+Domain, api.aftership-pixel.com
 Domain, api.agoda.com.edgekey.net
 Domain, api.agrantsem.com
 Domain, api.aiclk.com
@@ -7947,6 +7948,7 @@ Domain, asia-comonrt-stsdk.vivoglobal.com
 Domain, asia-comort-stsdk.vivoglobal.com
 Domain, asia-exstsdk.vivoglobal.com
 Domain, asia-monitor-stsdk.vivoglobal.com
+Domain, asia-news-abroad-backstage-interface.vivoglobal.com
 Domain, asia-onrt-stsdk.vivoglobal.com
 Domain, asia-ort-stsdk.vivoglobal.com
 Domain, asia-pnrt-stsdk.vivoglobal.com
@@ -18887,7 +18889,6 @@ Domain, unifideifi.pro
 Domain, unified.adsafeprotected.com
 Domain, unifiedbidding.ad.smaato.net
 Domain, unifopersp.pro
-Domain, uniformadvantage.demdex.net
 Domain, uniformadvantage3283141z.btttag.com
 Domain, unimmungra.pro
 Domain, unindrisol.pro

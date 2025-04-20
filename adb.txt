@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-04-20 09:46:29
-! 规则数量: 25045
+! Last modified: 2025-04-20 22:18:40
+! 规则数量: 25046
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -7442,6 +7442,7 @@
 ||api.aff-online.com^
 ||api.affinesystems.com^
 ||api.affmates.com^
+||api.aftership-pixel.com^
 ||api.agoda.com.edgekey.net^
 ||api.agrantsem.com^
 ||api.aiclk.com^
@@ -8446,6 +8447,7 @@
 ||asia-comort-stsdk.vivoglobal.com^
 ||asia-exstsdk.vivoglobal.com^
 ||asia-monitor-stsdk.vivoglobal.com^
+||asia-news-abroad-backstage-interface.vivoglobal.com^
 ||asia-onrt-stsdk.vivoglobal.com^
 ||asia-ort-stsdk.vivoglobal.com^
 ||asia-pnrt-stsdk.vivoglobal.com^
@@ -19386,7 +19388,6 @@
 ||unified.adsafeprotected.com^
 ||unifiedbidding.ad.smaato.net^
 ||unifopersp.pro^
-||uniformadvantage.demdex.net^
 ||uniformadvantage3283141z.btttag.com^
 ||unimmungra.pro^
 ||unindrisol.pro^
