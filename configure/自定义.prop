@@ -1392,3 +1392,32 @@
 
 #openinstall(可能有误杀)
 127.0.0.1 web.cdn.openinstall.io
+
+#华为天气
+#匹配DNS
+127.0.0.1 op.hicloud.com
+127.0.0.1 op.hihonorcloud.com
+#开屏
+127.0.0.1 acd.op.hicloud.com
+127.0.0.1 acd.op.hihonorcloud.com
+#信息收集
+127.0.0.1 events.op.hicloud.com
+127.0.0.1 events.op.hihonorcloud.com
+#疑似SDK
+127.0.0.1 sdkserver-drcn.op.dbankcloud.cn
+127.0.0.1 sdkserver-drcn.op.hihonorcloud.com
+127.0.0.1 adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn
+127.0.0.1 adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
+127.0.0.1 adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
+127.0.0.1 adx-dra.op.dbankcloud.com
+127.0.0.1 adx-dra.op.hicloud.com
+127.0.0.1 adx-dra.op.hihonorcloud.com
+127.0.0.1 adx-dre.op.dbankcloud.com
+127.0.0.1 adx-dre.op.hicloud.com
+127.0.0.1 adx-dre.op.hihonorcloud.com
+127.0.0.1 adx-drru.op.dbankcloud.ru
+#上传啥的不知道，拦截无影响，可能后续误杀。
+127.0.0.1 upfile-drcn.platform.hicloud.com
+127.0.0.1 upfile-drcn.platform.hihonorcloud.com
+
+
