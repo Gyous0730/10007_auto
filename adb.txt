@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-04-21 09:45:40
-! 规则数量: 25046
+! Last modified: 2025-04-21 11:24:02
+! 规则数量: 25058
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -1029,6 +1029,8 @@
 ||accultoxon.pro^
 ||accurspriz.pro^
 ||accuscosti.pro^
+||acd.op.hicloud.com^
+||acd.op.hihonorcloud.com^
 ||acdn.adnxs-simple.com^
 ||acdn.adnxs.com^
 ||acdn.newshuntads.com^
@@ -6387,12 +6389,14 @@
 ||adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||adx-dra.op.dbankcloud.com^
 ||adx-dra.op.hicloud.com^
+||adx-dra.op.hihonorcloud.com^
 ||adx-drcn.op.dbankcloud.cn^
 ||adx-drcn.op.dbankcloud.com^
 ||adx-drcn.op.hihonorcloud.cn^
 ||adx-drcn.op.hihonorcloud.com^
 ||adx-dre.op.dbankcloud.com^
 ||adx-dre.op.hicloud.com^
+||adx-dre.op.hihonorcloud.com^
 ||adx-drru.op.dbankcloud.ru^
 ||adx-event.tradplusad.com^
 ||adx-exchange.toast.com^
@@ -11557,6 +11561,8 @@
 ||events.adx.com.ru^
 ||events.api.boomtrain.com^
 ||events.api.vungle.com^
+||events.op.hicloud.com^
+||events.op.hihonorcloud.com^
 ||events.samsungads.com^
 ||everember.pro^
 ||everestads.net^
@@ -14813,6 +14819,8 @@
 ||onsiterecs.api.boomtrain.com^
 ||oofyficca.pro^
 ||oolascapi.pro^
+||op.hicloud.com^
+||op.hihonorcloud.com^
 ||opachscazo.pro^
 ||opads.ero-advertising.com^
 ||opads.us^
@@ -17327,6 +17335,8 @@
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkrec.tf.360.cn^
+||sdkserver-drcn.op.dbankcloud.cn^
+||sdkserver-drcn.op.hihonorcloud.com^
 ||sdktmp.hubcloud.com.cn^
 ||sdkupgrade.insight.ucweb.com^
 ||sdorrantif.pro^
@@ -19512,6 +19522,8 @@
 ||updatesdk.avlyun.com^
 ||updatesecure.pro^
 ||uperitrigo.pro^
+||upfile-drcn.platform.hicloud.com^
+||upfile-drcn.platform.hihonorcloud.com^
 ||upgazsoffi.pro^
 ||upgrade-adservice.hismarttv.com^
 ||upgrade-ms-home.com^

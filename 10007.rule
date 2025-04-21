@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-21 09:45:40
-# 规则数量: 25046
+# 更新日期: 2025-04-21 11:24:02
+# 规则数量: 25058
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -530,6 +530,8 @@ Domain, accucrifut.pro
 Domain, accultoxon.pro
 Domain, accurspriz.pro
 Domain, accuscosti.pro
+Domain, acd.op.hicloud.com
+Domain, acd.op.hihonorcloud.com
 Domain, acdn.adnxs-simple.com
 Domain, acdn.adnxs.com
 Domain, acdn.newshuntads.com
@@ -5888,12 +5890,14 @@ Domain, adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 Domain, adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 Domain, adx-dra.op.dbankcloud.com
 Domain, adx-dra.op.hicloud.com
+Domain, adx-dra.op.hihonorcloud.com
 Domain, adx-drcn.op.dbankcloud.cn
 Domain, adx-drcn.op.dbankcloud.com
 Domain, adx-drcn.op.hihonorcloud.cn
 Domain, adx-drcn.op.hihonorcloud.com
 Domain, adx-dre.op.dbankcloud.com
 Domain, adx-dre.op.hicloud.com
+Domain, adx-dre.op.hihonorcloud.com
 Domain, adx-drru.op.dbankcloud.ru
 Domain, adx-event.tradplusad.com
 Domain, adx-exchange.toast.com
@@ -11058,6 +11062,8 @@ Domain, events.ads.vungle.com
 Domain, events.adx.com.ru
 Domain, events.api.boomtrain.com
 Domain, events.api.vungle.com
+Domain, events.op.hicloud.com
+Domain, events.op.hihonorcloud.com
 Domain, events.samsungads.com
 Domain, everember.pro
 Domain, everestads.net
@@ -14314,6 +14320,8 @@ Domain, onrt.stsdk.vivoglobal.com
 Domain, onsiterecs.api.boomtrain.com
 Domain, oofyficca.pro
 Domain, oolascapi.pro
+Domain, op.hicloud.com
+Domain, op.hihonorcloud.com
 Domain, opachscazo.pro
 Domain, opads.ero-advertising.com
 Domain, opads.us
@@ -16828,6 +16836,8 @@ Domain, sdkconfig.ad.rus.xiaomi.com
 Domain, sdkconfig.ad.xiaomi.com
 Domain, sdkconfig.play.aiseet.atianqi.com
 Domain, sdkrec.tf.360.cn
+Domain, sdkserver-drcn.op.dbankcloud.cn
+Domain, sdkserver-drcn.op.hihonorcloud.com
 Domain, sdktmp.hubcloud.com.cn
 Domain, sdkupgrade.insight.ucweb.com
 Domain, sdorrantif.pro
@@ -19013,6 +19023,8 @@ Domain, updates.guitar-pro.com
 Domain, updatesdk.avlyun.com
 Domain, updatesecure.pro
 Domain, uperitrigo.pro
+Domain, upfile-drcn.platform.hicloud.com
+Domain, upfile-drcn.platform.hihonorcloud.com
 Domain, upgazsoffi.pro
 Domain, upgrade-adservice.hismarttv.com
 Domain, upgrade-ms-home.com
