@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-22 14:04:23
-# 规则数量: 25056
+# 更新日期: 2025-04-22 22:20:31
+# 规则数量: 25057
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -3183,6 +3183,7 @@ Domain, ads.morningstar.com
 Domain, ads.motorgraph.com
 Domain, ads.mouseplanet.com
 Domain, ads.movieweb.com
+Domain, ads.mozilla.org
 Domain, ads.mp.mydas.mobi
 Domain, ads.mp3searchy.com
 Domain, ads.mrgreen.com
