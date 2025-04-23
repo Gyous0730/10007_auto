@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-04-23 10:27:57
-! 规则数量: 27953
+! Last modified: 2025-04-23 12:38:55
+! 规则数量: 27975
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -77,6 +77,7 @@
 ||c.gdt.qq.com^
 ||tmead.y.qq.com^
 ||tmeadcomm.y.qq.com^
+||tmeadbak.y.qq.com^
 ! QQ音乐广告奖励检测
 ||oth.eve.mdt.qq.com^
 ||oth.str.mdt.qq.com^
@@ -551,6 +552,8 @@
 @@||ads.lingxing.com^$document
 @@||ads.privacy.qq.com^$document
 @@||ads.tiktok.com^$document
+! 腾讯视频第三方API
+@@||h5vv6.video.qq.com^
 
 
 ! 添加一些规则
@@ -576,6 +579,8 @@
 /static/upload/ads
 /api/index/splash_ad
 ||frodo.douban.com/api/v2/erebor/feed_ad
+||frodo.douban.com/api/v2/movie/ad
+||douban.com/rexxar/api/v2/market/products/
 ||douban.com/v2/app_ads
 ||douban.com/*/*_ads
 ||douban.com/api/v2/home_ads
@@ -606,6 +611,132 @@
 ||api.bilibili.com/x/v2/dm/ad
 ||api.bilibili.com/x/vip/ads
 ||api.bilibili.com/pgc/season/player/cards
+||api.live.bilibili.com/xlive/e-commerce-interface/v1/ecommerce-user/get_shopping_info?
+! 12306
+||ad.12306.cn/ad/
+! IT之家
+||api.zuihuimai.com/static/*/hongbao
+||dat.ruanmei.com/ithome/money/acd.json
+! keep
+||api.gotokeep.com/guide-webapp/v1/popup/getPopUp
+||kad.gotokeep.com/op-engine-webapp/v1/ad
+! 百度输入法
+||mime.baidu.com/*/start_screen_ads
+||mime.baidu.com/v5/start_screen_ads
+! 百度网盘
+||pan.baidu.com/rest/*/pcs/adv
+! 百度地图
+||afd.baidu.com/afd/entry?action=update
+||afd.baidu.com/afd/entry?action=query
+||maphotel.baidu.com/hotel/goextranet/activity/detail?
+||yongche.baidu.com/goorder/passenger/baseinfo
+||yongche.baidu.com/goorder/passenger/cobuild/pull?
+||yongche.baidu.com/goorder/passenger/operationgirdle
+||ecom.map.baidu.com/ad-ops/
+! 哔哩哔哩漫画
+||manga.bilibili.com/twirp/comic.v*.Comic/GetBubbles
+||manga.bilibili.com/twirp/comic.v*.Comic/SearchBanner
+||manga.bilibili.com/twirp/comic.v*.Comic/GetCommonBanner
+||manga.bilibili.com/twirp/comic.v*.Comic/ListFlash
+! 斗鱼
+||douyucdn.cn/japi/sign/app/getinfo
+! 拼多多第三方页面
+||video-dsp.pddpic.com/market-dsp-video/
+||t-dsp.pinduoduo.com/dspcb/i/mrk_union
+||images.pinduoduo.com/mrk/
+||images.pinduoduo.com/marketing_api/
+! 拼多多
+||api.pinduoduo.com/api/cappuccino/splash
+||api.yangkeduo.com/api/cappuccino/splash
+||api.pinduoduo.com/api/brand-olay/goods_detail/bybt_guide
+! 快对
+||kuaiduizuoye.com/init/ad/
+||kuaiduizuoye.com/kdapi/conf/appbanners
+||kuaiduizuoye.com/kdapi/conf/initbanner
+! 墨迹天气
+||p*-be-pack-sign.pglstatp-toutiao.com/ad-app-package/*$app=com.moji.mjweather.light
+||p*-be-pack-sign.pglstatp-toutiao.com/web.business.image/*$app=com.moji.mjweather.light
+||p*-be-pack-sign.pglstatp-toutiao.com/ad-app-package/*$app=com.moji.mjweather
+||p*-be-pack-sign.pglstatp-toutiao.com/web.business.image/*$app=com.moji.mjweather
+||fcard.api.moji.com/flycard/flyCard
+||vdo.api.moji.com/shortvideo/card/subscribe
+||vdo.api.moji.com/shortvideo/video/index_flow
+||vdo.api.moji.com/shortvideo/video_user/hotGuyRcm
+||vdo.api.moji.com/shortvideo/zone/follow_src_zone
+||sns.api.moji.com/user/dynamic_v9/json/someone_interest
+! 皮皮虾
+||api.pipix.com/api/ad/*
+||api5-lq.pipix.com/api/ad/*
+||api.pipix.com/bds/banner/*
+||api5-lq.pipix.com/bds/banner/*
+||api*.pipix.com/bds/banner/*
+||api*.pipix.com/api/ad/*
+! 七猫小说
+||api-cfg.wtzw.com/v1/splash/
+||api-cfg.wtzw.com/v*/splash/
+||api-bc.wtzw.com/api/v*/book-store/config
+||api-bc.wtzw.com/api/v*/book-store/push-book
+||api-bc.wtzw.com/api/v*/operation
+||cdn.wtzw.com/bookimg/free/api/v*/reader/reader-copy-paragraph-all.json
+||api-cfg.wtzw.com/v*/reward
+||api-cfg.wtzw.com/v*/adv
+||api-cfg.wtzw.com/v*/offline-adv/index
+||api-cfg.wtzw.com/v*/operation/index?ad_personal_switch
+||xiaoshuo.wtzw.com/api/v*/withdraw/init
+! 有道词典
+||gorgon.youdao.com/gorgon/brand/prefetch.s?
+||gorgon.youdao.com/gorgon/request.s?
+! 微博
+||api.weibo.cn/*/sug/list/finderchange?
+||api.weibo.cn/*/was/finder/searchbarchange?
+||api.weibo.cn/2/*/chaohua/discovery/home_bottom/switch?
+||api.weibo.cn/2/*/huati/discovery_home_bottom_getdotinfo
+||api.weibo.cn/2/*/huati/mobile_discovery_searchchange
+||api.weibo.cn/2/*/live/media_homelist?
+||api.weibo.cn/2/*/wbox/*/home_bottom_modal
+||api.weibo.cn/2/*/wbox/*/interest_category
+||api.weibo.cn/2/ad/weibointl?
+||api.weibo.cn/2/comments/bullet_screens?
+||api.weibo.cn/2/hot/hours_spotlight?
+||api.weibo.cn/2/photo/info?
+||api.weibo.cn/2/push/daily
+||api.weibo.cn/2/search/container_discover?
+||api.weibo.cn/2/statuses/container_positive
+||api.weibo.cn/2/statuses/push_info
+||api.weibo.cn/2/ug/checkin/list
+||api.weibo.cn/2/video/redpacket?
+||api.weibo.cn/2/video/tiny_video_info_show?
+||api.weibo.cn/2/vote/get_vote_detail?
+||bootrealtime.uve.weibo.com/v2/ad/realtime
+||bootrealtime.uve.weibo.com/v3/ad/realtime
+||bootrealtime.uve.weibo.com/v*/ad/realtime
+||card.weibo.com/article/m/aj/reward
+||card.weibo.com/article/m/aj/uvead
+||sdkapp.uve.weibo.com/interface/sdk/get-lbs-cell-info.php
+||sdkapp.uve.weibo.com/interface/sdk/sdkconfig.php
+||weibo.com/ttarticle/x/m/aj/reward
+||weibo.com/ttarticle/x/m/aj/uvead
+! 小红书
+||edith.xiaohongshu.com/api/sns/v1/surprisebox/get_style
+||edith.xiaohongshu.com/api/sns/v1/surprisebox/open
+||edith.xiaohongshu.com/api/sns/v1/surprisebox/submit_action
+||www.xiaohongshu.com/api/marketing/box/trigger?
+||edith.xiaohongshu.com/api/sns/v2/guide/user_banner
+||edith.xiaohongshu.com/api/sns/v3/note/guide
+||www.xiaohongshu.com/api/sns/v1/ads/resource
+||www.xiaohongshu.com/api/sns/v2/hey/*/hey_gallery
+! 小黑盒
+||api.xiaoheihe.cn/account/get_ads_info_v2
+! 最右
+||api.izuiyou.com/ad/
+||api.izuiyou.com/config/get_banner
+||file-share.izuiyou.com/octopus/media/templates/search_home_page_nv/search_home_page_nv
+||file-share.izuiyou.com/octopus/media/templates/search_home_page_nv_v2/search_home_page_nv
+||mercury-gateway.ixiaochuan.cn/mercury/v1/ad/
+||zyfile.izuiyou.com/zyfile/c2/a0/*.json
+! 移动云盘
+||jzts.cmpassport.com/personalized/getPushContent
+||ad.mcloud.139.com/advertapi
 
 
 ||0.r.msn.com^
@@ -646,8 +777,10 @@
 ||120.232.210.153^
 ||120.232.210.155^
 ||120.238.119.113^
+||120.27.235.201^
 ||121.12.1.102^
 ||121.12.1.95^
+||121.196.197.147^
 ||121.43.235.135^
 ||122.14.229.147^
 ||122.14.229.148^
@@ -746,7 +879,12 @@
 ||3px.axp.amazon-adsystem.com^
 ||4.adsco.re^
 ||4.afs.googleadservices.com^
+||47.110.187.87^
+||47.243.147.125^
+||47.56.131.76^
 ||47.89.59.182^
+||47.97.215.55^
+||47.99.42.29^
 ||480.zaloapp.ads.zdn.vn^
 ||4anners.ero-advertising.com^
 ||4b3325da2ad11b359d69f1c5af40712b.albfilz.com^
@@ -909,6 +1047,7 @@
 ||aads.shuzilm.cn^
 ||aads.treehugger.com^
 ||aaid.umeng.com^
+||aaid.uyunad.com^
 ||aalbc.advertserve.com^
 ||aanigicatat.pro^
 ||aata.ero-advertising.com^
@@ -1171,6 +1310,8 @@
 ||ad-gbn.com^
 ||ad-generation.jp^
 ||ad-generator.net^
+||ad-h5-cdn.soulapp.cn^
+||ad-h5-station-cdn.soulapp.cn^
 ||ad-hatena.com^
 ||ad-hoc-news.de.intellitxt.com^
 ||ad-house.mobi^
@@ -1208,6 +1349,7 @@
 ||ad-ping.tapcash.com^
 ||ad-plus.cn^
 ||ad-plus.com.tr^
+||ad-r.soulapp.cn^
 ||ad-renderer-assets.ads.sportradar.com^
 ||ad-ru-01.p.adserv.ai^
 ||ad-ru-02.p.adserv.ai^
@@ -1643,6 +1785,7 @@
 ||ad.intl.xiaomi.com^
 ||ad.intools.dev^
 ||ad.investor.bg^
+||ad.iot.360.cn^
 ||ad.ipadview.com^
 ||ad.iplayer.org^
 ||ad.ipredictive.com^
@@ -2613,6 +2756,7 @@
 ||adpm.app.qq.com^
 ||adpretirementservices.122.2o7.net^
 ||adpro.pro.cn^
+||adproxy.autohome.com.cn^
 ||adpulse.ads.targetnet.com^
 ||adpush.goforandroid.com^
 ||adpushsdk.goforandroid.com^
@@ -8379,6 +8523,7 @@
 ||apistat.adbana.com^
 ||apistats-static.propellerads.com^
 ||apistats.propellerads.com^
+||apiv4-iyes.youku.com^
 ||apk.flat-ads.com^
 ||apm-volcano.zuoyebang.com^
 ||apo.ero-advertising.com^
@@ -14226,6 +14371,7 @@
 ||lewetoy6.pro^
 ||lewocui8.pro^
 ||lexicdemod.pro^
+||lf-ad-ies.bytecdn.cn^
 ||lf0-common-ckv-tos.pstatp.com^
 ||lf1-common-ckv-tos.pstatp.com^
 ||lf10-common-ckv-tos.pstatp.com^
@@ -14452,6 +14598,7 @@
 ||m-adash.m.taobao.com^
 ||m-hayakawa.ad.dev.nend.net^
 ||m-static.ktokto.mobi^
+||m-vali.cp31.ott.cibntv.net^
 ||m.ad.zhangyue.com^
 ||m.adnxs.com^
 ||m.ads.sohu.com^
@@ -19168,6 +19315,7 @@
 ||spitfpolys.pro^
 ||spixel.adsafeprotected.com^
 ||splash-screen.voodoo-ads.io^
+||splashimgretrybssdl.cloud.kugou.com^
 ||splorgrati.pro^
 ||spoliaardv.pro^
 ||spoliurina.pro^
@@ -19935,7 +20083,6 @@
 ||tamszumerle.pro^
 ||tangeunrep.pro^
 ||tanghbassu.pro^
-||tangram.e.qq.com^
 ||tanklriagg.pro^
 ||tannismott.pro^
 ||tantahecto.pro^
@@ -20270,6 +20417,8 @@
 ||tossiproce.pro^
 ||tossoffads.com^
 ||tostiscale.pro^
+||tosv.boe.byted.org^
+||tosv.byted.org^
 ||totiprulla.pro^
 ||tour.affbuzzads.com^
 ||tournamentary.pro^
@@ -20633,6 +20782,7 @@
 ||tyfefye.pro^
 ||typicmorph.pro^
 ||typo3.ero-advertising.com^
+||tysdk.95516.com^
 ||tytx.m.cn.miaozhen.com^
 ||u-ads.adap.tv^
 ||u-x.jd.com^
@@ -21148,6 +21298,7 @@
 ||valenstral.pro^
 ||valf.atm.cp31.ott.cibntv.net^
 ||vali-g1.cp31.ott.cibntv.net^
+||vali-ugc.cp31.ott.cibntv.net^
 ||vali.cp31.ott.cibntv.net.302.myalicdn.com^
 ||valiceracl.pro^
 ||valigdiscl.pro^
@@ -21649,6 +21800,7 @@
 ||vu.adschoom.com^
 ||vulcarabbo.pro^
 ||vumoseo6.pro^
+||vv6.video.qq.com^
 ||vv84.bj.bcebos.com^
 ||vwins.pro^
 ||vwinvn.pro^
@@ -28418,6 +28570,7 @@
 ||yt1.mmstat.com^
 ||yueads.apse.svr.rixengine.com^
 ||yuintbradshed.com^
+||yumao.puata.info^
 ||yummyadvertiseexploded.com^
 ||yuppyads.com^
 ||yurtmowilli.pro^

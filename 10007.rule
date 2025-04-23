@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-23 10:27:57
-# 规则数量: 27953
+# 更新日期: 2025-04-23 12:38:55
+# 规则数量: 27975
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -58,6 +58,7 @@ Domain, v.gdt.qq.com
 Domain, c.gdt.qq.com
 Domain, tmead.y.qq.com
 Domain, tmeadcomm.y.qq.com
+Domain, tmeadbak.y.qq.com
 Domain, oth.eve.mdt.qq.com
 Domain, oth.str.mdt.qq.com
 Domain, oth.update.mdt.qq.com
@@ -85,6 +86,8 @@ KeyWord, /static/upload/ads
 KeyWord, /api/index/splash_ad
 KeyWord, /api/ad/adserver/
 URL, https://frodo.douban.com/api/v2/erebor/feed_ad
+URL, https://frodo.douban.com/api/v2/movie/ad
+URL, https://douban.com/rexxar/api/v2/market/products/
 URL, https://douban.com/v2/app_ads
 URL, https://douban.com/*/*_ads
 URL, https://douban.com/api/v2/home_ads
@@ -105,6 +108,108 @@ URL, https://app.bilibili.com/x/v2/splash/list
 URL, https://api.bilibili.com/x/v2/dm/ad
 URL, https://api.bilibili.com/x/vip/ads
 URL, https://api.bilibili.com/pgc/season/player/cards
+URL, https://api.live.bilibili.com/xlive/e-commerce-interface/v1/ecommerce-user/get_shopping_info?
+URL, https://ad.12306.cn/ad/
+URL, https://api.zuihuimai.com/static/*/hongbao
+URL, https://dat.ruanmei.com/ithome/money/acd.json
+URL, https://api.gotokeep.com/guide-webapp/v1/popup/getPopUp
+URL, https://kad.gotokeep.com/op-engine-webapp/v1/ad
+URL, https://mime.baidu.com/*/start_screen_ads
+URL, https://mime.baidu.com/v5/start_screen_ads
+URL, https://pan.baidu.com/rest/*/pcs/adv
+URL, https://afd.baidu.com/afd/entry?action=update
+URL, https://afd.baidu.com/afd/entry?action=query
+URL, https://maphotel.baidu.com/hotel/goextranet/activity/detail?
+URL, https://yongche.baidu.com/goorder/passenger/baseinfo
+URL, https://yongche.baidu.com/goorder/passenger/cobuild/pull?
+URL, https://yongche.baidu.com/goorder/passenger/operationgirdle
+URL, https://ecom.map.baidu.com/ad-ops/
+URL, https://manga.bilibili.com/twirp/comic.v*.Comic/GetBubbles
+URL, https://manga.bilibili.com/twirp/comic.v*.Comic/SearchBanner
+URL, https://manga.bilibili.com/twirp/comic.v*.Comic/GetCommonBanner
+URL, https://manga.bilibili.com/twirp/comic.v*.Comic/ListFlash
+URL, https://douyucdn.cn/japi/sign/app/getinfo
+URL, https://video-dsp.pddpic.com/market-dsp-video/
+URL, https://t-dsp.pinduoduo.com/dspcb/i/mrk_union
+URL, https://images.pinduoduo.com/mrk/
+URL, https://images.pinduoduo.com/marketing_api/
+URL, https://api.pinduoduo.com/api/cappuccino/splash
+URL, https://api.yangkeduo.com/api/cappuccino/splash
+URL, https://api.pinduoduo.com/api/brand-olay/goods_detail/bybt_guide
+URL, https://kuaiduizuoye.com/init/ad/
+URL, https://kuaiduizuoye.com/kdapi/conf/appbanners
+URL, https://kuaiduizuoye.com/kdapi/conf/initbanner
+URL, https://fcard.api.moji.com/flycard/flyCard
+URL, https://vdo.api.moji.com/shortvideo/card/subscribe
+URL, https://vdo.api.moji.com/shortvideo/video/index_flow
+URL, https://vdo.api.moji.com/shortvideo/video_user/hotGuyRcm
+URL, https://vdo.api.moji.com/shortvideo/zone/follow_src_zone
+URL, https://sns.api.moji.com/user/dynamic_v9/json/someone_interest
+URL, https://api.pipix.com/api/ad/*
+URL, https://api5-lq.pipix.com/api/ad/*
+URL, https://api.pipix.com/bds/banner/*
+URL, https://api5-lq.pipix.com/bds/banner/*
+URL, https://api*.pipix.com/bds/banner/*
+URL, https://api*.pipix.com/api/ad/*
+URL, https://api-cfg.wtzw.com/v1/splash/
+URL, https://api-cfg.wtzw.com/v*/splash/
+URL, https://api-bc.wtzw.com/api/v*/book-store/config
+URL, https://api-bc.wtzw.com/api/v*/book-store/push-book
+URL, https://api-bc.wtzw.com/api/v*/operation
+URL, https://cdn.wtzw.com/bookimg/free/api/v*/reader/reader-copy-paragraph-all.json
+URL, https://api-cfg.wtzw.com/v*/reward
+URL, https://api-cfg.wtzw.com/v*/adv
+URL, https://api-cfg.wtzw.com/v*/offline-adv/index
+URL, https://api-cfg.wtzw.com/v*/operation/index?ad_personal_switch
+URL, https://xiaoshuo.wtzw.com/api/v*/withdraw/init
+URL, https://gorgon.youdao.com/gorgon/brand/prefetch.s?
+URL, https://gorgon.youdao.com/gorgon/request.s?
+URL, https://api.weibo.cn/*/sug/list/finderchange?
+URL, https://api.weibo.cn/*/was/finder/searchbarchange?
+URL, https://api.weibo.cn/2/*/chaohua/discovery/home_bottom/switch?
+URL, https://api.weibo.cn/2/*/huati/discovery_home_bottom_getdotinfo
+URL, https://api.weibo.cn/2/*/huati/mobile_discovery_searchchange
+URL, https://api.weibo.cn/2/*/live/media_homelist?
+URL, https://api.weibo.cn/2/*/wbox/*/home_bottom_modal
+URL, https://api.weibo.cn/2/*/wbox/*/interest_category
+URL, https://api.weibo.cn/2/ad/weibointl?
+URL, https://api.weibo.cn/2/comments/bullet_screens?
+URL, https://api.weibo.cn/2/hot/hours_spotlight?
+URL, https://api.weibo.cn/2/photo/info?
+URL, https://api.weibo.cn/2/push/daily
+URL, https://api.weibo.cn/2/search/container_discover?
+URL, https://api.weibo.cn/2/statuses/container_positive
+URL, https://api.weibo.cn/2/statuses/push_info
+URL, https://api.weibo.cn/2/ug/checkin/list
+URL, https://api.weibo.cn/2/video/redpacket?
+URL, https://api.weibo.cn/2/video/tiny_video_info_show?
+URL, https://api.weibo.cn/2/vote/get_vote_detail?
+URL, https://bootrealtime.uve.weibo.com/v2/ad/realtime
+URL, https://bootrealtime.uve.weibo.com/v3/ad/realtime
+URL, https://bootrealtime.uve.weibo.com/v*/ad/realtime
+URL, https://card.weibo.com/article/m/aj/reward
+URL, https://card.weibo.com/article/m/aj/uvead
+URL, https://sdkapp.uve.weibo.com/interface/sdk/get-lbs-cell-info.php
+URL, https://sdkapp.uve.weibo.com/interface/sdk/sdkconfig.php
+URL, https://weibo.com/ttarticle/x/m/aj/reward
+URL, https://weibo.com/ttarticle/x/m/aj/uvead
+URL, https://edith.xiaohongshu.com/api/sns/v1/surprisebox/get_style
+URL, https://edith.xiaohongshu.com/api/sns/v1/surprisebox/open
+URL, https://edith.xiaohongshu.com/api/sns/v1/surprisebox/submit_action
+URL, https://www.xiaohongshu.com/api/marketing/box/trigger?
+URL, https://edith.xiaohongshu.com/api/sns/v2/guide/user_banner
+URL, https://edith.xiaohongshu.com/api/sns/v3/note/guide
+URL, https://www.xiaohongshu.com/api/sns/v1/ads/resource
+URL, https://www.xiaohongshu.com/api/sns/v2/hey/*/hey_gallery
+URL, https://api.xiaoheihe.cn/account/get_ads_info_v2
+URL, https://api.izuiyou.com/ad/
+URL, https://api.izuiyou.com/config/get_banner
+URL, https://file-share.izuiyou.com/octopus/media/templates/search_home_page_nv/search_home_page_nv
+URL, https://file-share.izuiyou.com/octopus/media/templates/search_home_page_nv_v2/search_home_page_nv
+URL, https://mercury-gateway.ixiaochuan.cn/mercury/v1/ad/
+URL, https://zyfile.izuiyou.com/zyfile/c2/a0/*.json
+URL, https://jzts.cmpassport.com/personalized/getPushContent
+URL, https://ad.mcloud.139.com/advertapi
 #END
 
 #域名规则
@@ -147,8 +252,10 @@ Domain, 120.232.210.151
 Domain, 120.232.210.153
 Domain, 120.232.210.155
 Domain, 120.238.119.113
+Domain, 120.27.235.201
 Domain, 121.12.1.102
 Domain, 121.12.1.95
+Domain, 121.196.197.147
 Domain, 121.43.235.135
 Domain, 122.14.229.147
 Domain, 122.14.229.148
@@ -247,7 +354,12 @@ Domain, 3m.mediav.com
 Domain, 3px.axp.amazon-adsystem.com
 Domain, 4.adsco.re
 Domain, 4.afs.googleadservices.com
+Domain, 47.110.187.87
+Domain, 47.243.147.125
+Domain, 47.56.131.76
 Domain, 47.89.59.182
+Domain, 47.97.215.55
+Domain, 47.99.42.29
 Domain, 480.zaloapp.ads.zdn.vn
 Domain, 4anners.ero-advertising.com
 Domain, 4b3325da2ad11b359d69f1c5af40712b.albfilz.com
@@ -410,6 +522,7 @@ Domain, aaa.japanxvideos.mobi
 Domain, aads.shuzilm.cn
 Domain, aads.treehugger.com
 Domain, aaid.umeng.com
+Domain, aaid.uyunad.com
 Domain, aalbc.advertserve.com
 Domain, aanigicatat.pro
 Domain, aata.ero-advertising.com
@@ -672,6 +785,8 @@ Domain, ad-g.doubleclick.net
 Domain, ad-gbn.com
 Domain, ad-generation.jp
 Domain, ad-generator.net
+Domain, ad-h5-cdn.soulapp.cn
+Domain, ad-h5-station-cdn.soulapp.cn
 Domain, ad-hatena.com
 Domain, ad-hoc-news.de.intellitxt.com
 Domain, ad-house.mobi
@@ -709,6 +824,7 @@ Domain, ad-pay.de
 Domain, ad-ping.tapcash.com
 Domain, ad-plus.cn
 Domain, ad-plus.com.tr
+Domain, ad-r.soulapp.cn
 Domain, ad-renderer-assets.ads.sportradar.com
 Domain, ad-ru-01.p.adserv.ai
 Domain, ad-ru-02.p.adserv.ai
@@ -1144,6 +1260,7 @@ Domain, ad.interreklame.de
 Domain, ad.intl.xiaomi.com
 Domain, ad.intools.dev
 Domain, ad.investor.bg
+Domain, ad.iot.360.cn
 Domain, ad.ipadview.com
 Domain, ad.iplayer.org
 Domain, ad.ipredictive.com
@@ -2114,6 +2231,7 @@ Domain, adplexmedia.adk2x.com
 Domain, adpm.app.qq.com
 Domain, adpretirementservices.122.2o7.net
 Domain, adpro.pro.cn
+Domain, adproxy.autohome.com.cn
 Domain, adpulse.ads.targetnet.com
 Domain, adpush.goforandroid.com
 Domain, adpushsdk.goforandroid.com
@@ -7880,6 +7998,7 @@ Domain, apioci.vlogerads.com
 Domain, apistat.adbana.com
 Domain, apistats-static.propellerads.com
 Domain, apistats.propellerads.com
+Domain, apiv4-iyes.youku.com
 Domain, apk.flat-ads.com
 Domain, apm-volcano.zuoyebang.com
 Domain, apo.ero-advertising.com
@@ -13727,6 +13846,7 @@ Domain, levitateleads.com
 Domain, lewetoy6.pro
 Domain, lewocui8.pro
 Domain, lexicdemod.pro
+Domain, lf-ad-ies.bytecdn.cn
 Domain, lf0-common-ckv-tos.pstatp.com
 Domain, lf1-common-ckv-tos.pstatp.com
 Domain, lf10-common-ckv-tos.pstatp.com
@@ -13953,6 +14073,7 @@ Domain, lyzafyy.pro
 Domain, m-adash.m.taobao.com
 Domain, m-hayakawa.ad.dev.nend.net
 Domain, m-static.ktokto.mobi
+Domain, m-vali.cp31.ott.cibntv.net
 Domain, m.ad.zhangyue.com
 Domain, m.adnxs.com
 Domain, m.ads.sohu.com
@@ -18669,6 +18790,7 @@ Domain, spirodistr.pro
 Domain, spitfpolys.pro
 Domain, spixel.adsafeprotected.com
 Domain, splash-screen.voodoo-ads.io
+Domain, splashimgretrybssdl.cloud.kugou.com
 Domain, splorgrati.pro
 Domain, spoliaardv.pro
 Domain, spoliurina.pro
@@ -19436,7 +19558,6 @@ Domain, tambometap.pro
 Domain, tamszumerle.pro
 Domain, tangeunrep.pro
 Domain, tanghbassu.pro
-Domain, tangram.e.qq.com
 Domain, tanklriagg.pro
 Domain, tannismott.pro
 Domain, tantahecto.pro
@@ -19771,6 +19892,8 @@ Domain, tossicavit.pro
 Domain, tossiproce.pro
 Domain, tossoffads.com
 Domain, tostiscale.pro
+Domain, tosv.boe.byted.org
+Domain, tosv.byted.org
 Domain, totiprulla.pro
 Domain, tour.affbuzzads.com
 Domain, tournamentary.pro
@@ -20134,6 +20257,7 @@ Domain, tycihua.pro
 Domain, tyfefye.pro
 Domain, typicmorph.pro
 Domain, typo3.ero-advertising.com
+Domain, tysdk.95516.com
 Domain, tytx.m.cn.miaozhen.com
 Domain, u-ads.adap.tv
 Domain, u-x.jd.com
@@ -20649,6 +20773,7 @@ Domain, valenciaadschool.com
 Domain, valenstral.pro
 Domain, valf.atm.cp31.ott.cibntv.net
 Domain, vali-g1.cp31.ott.cibntv.net
+Domain, vali-ugc.cp31.ott.cibntv.net
 Domain, vali.cp31.ott.cibntv.net.302.myalicdn.com
 Domain, valiceracl.pro
 Domain, valigdiscl.pro
@@ -21150,6 +21275,7 @@ Domain, vtyqy.admaster.com.cn
 Domain, vu.adschoom.com
 Domain, vulcarabbo.pro
 Domain, vumoseo6.pro
+Domain, vv6.video.qq.com
 Domain, vv84.bj.bcebos.com
 Domain, vwins.pro
 Domain, vwinvn.pro
@@ -27919,6 +28045,7 @@ Domain, yt.mmstat.com
 Domain, yt1.mmstat.com
 Domain, yueads.apse.svr.rixengine.com
 Domain, yuintbradshed.com
+Domain, yumao.puata.info
 Domain, yummyadvertiseexploded.com
 Domain, yuppyads.com
 Domain, yurtmowilli.pro
