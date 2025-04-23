@@ -1,7 +1,7 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-23 12:38:55
+# 更新日期: 2025-04-23 15:29:25
 # 规则数量: 27975
 
 #广告奖励
@@ -177,6 +177,9 @@ URL, https://api.weibo.cn/2/comments/bullet_screens?
 URL, https://api.weibo.cn/2/hot/hours_spotlight?
 URL, https://api.weibo.cn/2/photo/info?
 URL, https://api.weibo.cn/2/push/daily
+URL, https://api.weibo.cn/2/remind/*unread*
+URL, https://api.weibo.cn/2/remind/group_unread?
+URL, https://api.weibo.cn/2/remind/unread_count?
 URL, https://api.weibo.cn/2/search/container_discover?
 URL, https://api.weibo.cn/2/statuses/container_positive
 URL, https://api.weibo.cn/2/statuses/push_info
@@ -184,9 +187,9 @@ URL, https://api.weibo.cn/2/ug/checkin/list
 URL, https://api.weibo.cn/2/video/redpacket?
 URL, https://api.weibo.cn/2/video/tiny_video_info_show?
 URL, https://api.weibo.cn/2/vote/get_vote_detail?
+URL, https://bootrealtime.uve.weibo.com/v*/ad/realtime
 URL, https://bootrealtime.uve.weibo.com/v2/ad/realtime
 URL, https://bootrealtime.uve.weibo.com/v3/ad/realtime
-URL, https://bootrealtime.uve.weibo.com/v*/ad/realtime
 URL, https://card.weibo.com/article/m/aj/reward
 URL, https://card.weibo.com/article/m/aj/uvead
 URL, https://sdkapp.uve.weibo.com/interface/sdk/get-lbs-cell-info.php
