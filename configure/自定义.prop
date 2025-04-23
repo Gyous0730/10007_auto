@@ -1420,4 +1420,42 @@
 127.0.0.1 upfile-drcn.platform.hicloud.com
 127.0.0.1 upfile-drcn.platform.hihonorcloud.com
 
+#2025.04.22
+#腾讯视频
+127.0.0.1 vv6.video.qq.com
+127.0.0.1 lf-ad-ies.bytecdn.cn
+127.0.0.1 ad.jia.360.cn
+127.0.0.1 ad.iot.360.cn
+#soul
+127.0.0.1 ad-h5-station-cdn.soulapp.cn
+127.0.0.1 ad-h5-cdn.soulapp.cn
+127.0.0.1 ad-r.soulapp.cn
+127.0.0.1 121.196.197.147
+127.0.0.1 120.27.235.201
+127.0.0.1 47.243.147.125
+127.0.0.1 47.110.187.87
+127.0.0.1 47.56.131.76
+127.0.0.1 47.99.42.29
+127.0.0.1 47.97.215.55
+#something
+127.0.0.1 apiv4-iyes.youku.com
+127.0.0.1 tysdk.95516.com
+127.0.0.1 m-vali.cp31.ott.cibntv.net
+127.0.0.1 vali-g1.cp31.ott.cibntv.net
+127.0.0.1 vali-ugc.cp31.ott.cibntv.net
+127.0.0.1 splashimgretrybssdl.cloud.kugou.com
+#未知厂商，先拦了再说
+#uyunad.com
+127.0.0.1 aaid.uyunad.com
+127.0.0.1 yumao.puata.info
+127.0.0.1 ztoken.uyunad.com
+#汽车之家
+127.0.0.1 adproxy.autohome.com.cn
+127.0.0.1 tosv.boe.byted.org
+127.0.0.1 tosv.byted.org
+
+
+
+
+
 

@@ -511,6 +511,9 @@
 ^0.0.0.0[[:space:]]ads.lingxing.com$
 ^0.0.0.0[[:space:]]ads.privacy.qq.com$
 ^0.0.0.0[[:space:]]ads.tiktok.com$
+#腾讯视频第三方API
+^0.0.0.0[[:space:]]h5vv6.video.qq.com$
+
 
 #放到iptables屏蔽的域名
 #或者不要的网页广告
