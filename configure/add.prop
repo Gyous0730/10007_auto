@@ -692,6 +692,9 @@
 ||api.weibo.cn/2/hot/hours_spotlight?
 ||api.weibo.cn/2/photo/info?
 ||api.weibo.cn/2/push/daily
+||api.weibo.cn/2/remind/*unread*
+||api.weibo.cn/2/remind/group_unread?
+||api.weibo.cn/2/remind/unread_count?
 ||api.weibo.cn/2/search/container_discover?
 ||api.weibo.cn/2/statuses/container_positive
 ||api.weibo.cn/2/statuses/push_info
@@ -699,9 +702,9 @@
 ||api.weibo.cn/2/video/redpacket?
 ||api.weibo.cn/2/video/tiny_video_info_show?
 ||api.weibo.cn/2/vote/get_vote_detail?
+||bootrealtime.uve.weibo.com/v*/ad/realtime
 ||bootrealtime.uve.weibo.com/v2/ad/realtime
 ||bootrealtime.uve.weibo.com/v3/ad/realtime
-||bootrealtime.uve.weibo.com/v*/ad/realtime
 ||card.weibo.com/article/m/aj/reward
 ||card.weibo.com/article/m/aj/uvead
 ||sdkapp.uve.weibo.com/interface/sdk/get-lbs-cell-info.php

@@ -171,6 +171,9 @@ URL, https://api.weibo.cn/2/comments/bullet_screens?
 URL, https://api.weibo.cn/2/hot/hours_spotlight?
 URL, https://api.weibo.cn/2/photo/info?
 URL, https://api.weibo.cn/2/push/daily
+URL, https://api.weibo.cn/2/remind/*unread*
+URL, https://api.weibo.cn/2/remind/group_unread?
+URL, https://api.weibo.cn/2/remind/unread_count?
 URL, https://api.weibo.cn/2/search/container_discover?
 URL, https://api.weibo.cn/2/statuses/container_positive
 URL, https://api.weibo.cn/2/statuses/push_info
@@ -178,9 +181,9 @@ URL, https://api.weibo.cn/2/ug/checkin/list
 URL, https://api.weibo.cn/2/video/redpacket?
 URL, https://api.weibo.cn/2/video/tiny_video_info_show?
 URL, https://api.weibo.cn/2/vote/get_vote_detail?
+URL, https://bootrealtime.uve.weibo.com/v*/ad/realtime
 URL, https://bootrealtime.uve.weibo.com/v2/ad/realtime
 URL, https://bootrealtime.uve.weibo.com/v3/ad/realtime
-URL, https://bootrealtime.uve.weibo.com/v*/ad/realtime
 URL, https://card.weibo.com/article/m/aj/reward
 URL, https://card.weibo.com/article/m/aj/uvead
 URL, https://sdkapp.uve.weibo.com/interface/sdk/get-lbs-cell-info.php
