@@ -1,8 +1,8 @@
 # Host 10007
 # 主页: https://github.com/lingeringsound/10007_auto
 # 中文主页: https://www.gitlink.org.cn/keytoolazy/10007_auto
-# 更新日期: 2025-04-30 14:19:39
-# 规则数量: 33463
+# 更新日期: 2025-04-30 22:20:56
+# 规则数量: 33482
 
 #广告奖励
 Domain, adsmind.gdtimg.com
@@ -368,6 +368,7 @@ Domain, 360fenxi.mediav.com
 Domain, 361ads.offerstrack.net
 Domain, 365-business.online
 Domain, 37.1.213.100
+Domain, 372-aad-485.mktoresp.com
 Domain, 39.96.184.178
 Domain, 39.96.185.90
 Domain, 397c0.admaster.com.cn
@@ -401,7 +402,6 @@ Domain, 4cywq-eqnre.ads.tremorhub.com
 Domain, 4daskdasid.pro
 Domain, 4frameads.com
 Domain, 4gtest.bj2cu.u3.ucweb.com
-Domain, 4hllz-5imgf.ads.tremorhub.com
 Domain, 4ksadventures.com
 Domain, 4pco5-11z92.ads.tremorhub.com
 Domain, 4pco5-h0h0q.ads.tremorhub.com
@@ -508,7 +508,6 @@ Domain, 9l6ha-6m433.ads.tremorhub.com
 Domain, 9l6ha-939hh.ads.tremorhub.com
 Domain, 9l6ha-e14kk.ads.tremorhub.com
 Domain, 9l6ha.ads.tremorhub.com
-Domain, 9ozphlqxyrl72bvunhis5juh3x3vhw3hvcwqtdb338f773a180417dadsac.d.aa.online-metrix.net
 Domain, a-ad.adwo.com
 Domain, a-ads.com
 Domain, a-bj.vlion.cn
@@ -663,7 +662,6 @@ Domain, aboutads.quantcast.com
 Domain, abradeiacu.pro
 Domain, abririspi.pro
 Domain, abroad-ad.kingsoft-office-service.com
-Domain, abroad-adv.360os.com
 Domain, abroad-sdk-push.dutils.com
 Domain, abrogfurna.pro
 Domain, abrts.pro
@@ -960,6 +958,7 @@ Domain, ad-server.proboards.com
 Domain, ad-server.unlimapps.com
 Domain, ad-serverparc.nl
 Domain, ad-serving.de
+Domain, ad-sfo.pubmatic.com
 Domain, ad-sh-sz-zb.wagbridge.tanx.alimama.com
 Domain, ad-shield.cc
 Domain, ad-shot.com
@@ -1096,7 +1095,6 @@ Domain, ad.ae.doubleclick.net
 Domain, ad.afftrck.com
 Domain, ad.afy11.net
 Domain, ad.agilemedia.jp
-Domain, ad.aginomoto.com
 Domain, ad.agrantsem.com
 Domain, ad.allboxing.ru
 Domain, ad.alldatasheet.com
@@ -1288,6 +1286,7 @@ Domain, ad.funpic.de
 Domain, ad.g-content.bid
 Domain, ad.gain-ads.com
 Domain, ad.gamebox.360.cn
+Domain, ad.gameley.com
 Domain, ad.gametower.com.tw
 Domain, ad.ganji.com
 Domain, ad.garantiarkadas.com
@@ -1501,6 +1500,7 @@ Domain, ad.nettvservices.com
 Domain, ad.network60.com
 Domain, ad.networkcpm.com
 Domain, ad.new-programmatic.com
+Domain, ad.nicenews.com
 Domain, ad.nicovideo.jp
 Domain, ad.nl.doubleclick.net
 Domain, ad.no.doubleclick.net
@@ -1889,6 +1889,7 @@ Domain, ad2.lupa.cz
 Domain, ad2.maho.jp
 Domain, ad2.media01.eu
 Domain, ad2.mobring.co
+Domain, ad2.moreto.net
 Domain, ad2.movad.net
 Domain, ad2.nationalreview.com
 Domain, ad2.nend.net
@@ -1976,7 +1977,6 @@ Domain, ad30digital.checkm8.com
 Domain, ad31.checkm8.com
 Domain, ad31digital.checkm8.com
 Domain, ad32.checkm8.com
-Domain, ad32.semrush.net
 Domain, ad32digital.checkm8.com
 Domain, ad33.checkm8.com
 Domain, ad33digital.checkm8.com
@@ -1994,7 +1994,6 @@ Domain, ad38digital.checkm8.com
 Domain, ad39.checkm8.com
 Domain, ad39digital.checkm8.com
 Domain, ad3digital.checkm8.com
-Domain, ad3g.com
 Domain, ad4.ad-srv.net
 Domain, ad4.adfarm1.adition.com
 Domain, ad4.api.ero-advertising.com
@@ -2052,6 +2051,7 @@ Domain, ad5.bigmir.net
 Domain, ad5.checkm8.com
 Domain, ad5.contentabc.com
 Domain, ad5.fpa.ero-advertising.com
+Domain, ad5.koreadaily.com
 Domain, ad5.lbn.ru
 Domain, ad5.on.cc
 Domain, ad5.speedbit.com
@@ -2119,6 +2119,7 @@ Domain, adapi-srv-us-east-3050.smartadserver.com
 Domain, adapi-srv-us-east-3713.smartadserver.com
 Domain, adapi-srv-us-east.smartadserver.com
 Domain, adapi-srv-us-west-3050.smartadserver.com
+Domain, adapi-srv-us-west.smartadserver.com
 Domain, adapi.about.co.kr
 Domain, adapi.addealsnetwork.com
 Domain, adapi.gunosy.com
@@ -2418,6 +2419,7 @@ Domain, ads-cdn.fptplay.net
 Domain, ads-cdn.loopaautomate.com
 Domain, ads-cdn.tenmax.io
 Domain, ads-cloud.rovio.com
+Domain, ads-collector.luizalabs.com
 Domain, ads-colruytgroup.adhese.com
 Domain, ads-config-engine-noneu.truecaller.com
 Domain, ads-config.unityads.unity3d.com
@@ -2431,7 +2433,6 @@ Domain, ads-delivery.gameforge.com
 Domain, ads-delivery.gunosy.com
 Domain, ads-dev.ad4game.com
 Domain, ads-dev.pinterest.com
-Domain, ads-dev.sportradar.com
 Domain, ads-dpgmediabe.adhese.com
 Domain, ads-drcn.platform.dbankcloud.cn
 Domain, ads-drcn.platform.dbankcloud.com
@@ -2456,6 +2457,7 @@ Domain, ads-icl.googleusercontent.com
 Domain, ads-igmn.adhese.com
 Domain, ads-image.production-public.tubi.io
 Domain, ads-img-al.xhscdn.com
+Domain, ads-infoplaza.adhese.com
 Domain, ads-interfaces.sc-cdn.net
 Domain, ads-ios-sdk.ogury.co
 Domain, ads-jbhvlp.rtba.bidsxchange.com
@@ -2475,7 +2477,6 @@ Domain, ads-massarius.adhese.com
 Domain, ads-media-cdn.tenmax.io
 Domain, ads-mediafin.adhese.com
 Domain, ads-metadata-prod.zeustechnology.com
-Domain, ads-monitoring.shziyi.com
 Domain, ads-nd8ga.ortb.adelement.com
 Domain, ads-nd8iv.ortb.adelement.com
 Domain, ads-nd8lj.ortb.adelement.com
@@ -2493,7 +2494,6 @@ Domain, ads-platform.zalo.me
 Domain, ads-portal.net
 Domain, ads-privacy-api.prd.mz.internal.unity3d.com
 Domain, ads-privacy.gadsme.com
-Domain, ads-r9cdcl.ortb.vdo.ai
 Domain, ads-redis.ecn.cl
 Domain, ads-refinery89.adhese.com
 Domain, ads-resources-legacy.waze.com
@@ -2502,6 +2502,7 @@ Domain, ads-rm.looksmart.com
 Domain, ads-rolandgarros.com
 Domain, ads-roularta.adhese.com
 Domain, ads-router-noneu.truecaller.com
+Domain, ads-sdk-api.ranfenghd.com
 Domain, ads-sdk-configuration-gcp.unityads.unity3d.com
 Domain, ads-sdk-configuration.unityads.unity3d.com
 Domain, ads-sdk.avidly.com
@@ -2522,6 +2523,8 @@ Domain, ads-swkbank.de
 Domain, ads-t.ru
 Domain, ads-tag.iionads.com
 Domain, ads-tag.ortb.adelement.com
+Domain, ads-tag.rtb.adtarget.org
+Domain, ads-tag.rtba.bidsxchange.com
 Domain, ads-thanhnien-vn.cdn.ampproject.org
 Domain, ads-tmg.adhese.com
 Domain, ads-tr.bigmining.com
@@ -2582,7 +2585,6 @@ Domain, ads.adagent.chacha.com
 Domain, ads.adamoads.com
 Domain, ads.adap.tv
 Domain, ads.adaptv.advertising.com
-Domain, ads.adbeat.club
 Domain, ads.adbottw.net
 Domain, ads.adbroker.de
 Domain, ads.adcorps.com
@@ -2610,6 +2612,7 @@ Domain, ads.admanage.com
 Domain, ads.admaru.com
 Domain, ads.admarvel.com
 Domain, ads.admatrix.vn
+Domain, ads.admaxim.com
 Domain, ads.admaximize.com
 Domain, ads.administrator.de
 Domain, ads.admized.com
@@ -2697,6 +2700,7 @@ Domain, ads.annabac.com
 Domain, ads.ants.vn
 Domain, ads.anura.io
 Domain, ads.aol.co.uk
+Domain, ads.apac.travelaudience.com
 Domain, ads.apartmenttherapy.com
 Domain, ads.api.fakeloc.cc
 Domain, ads.api.lerist.cc
@@ -2713,7 +2717,6 @@ Domain, ads.aps.amazon-adsystem.com
 Domain, ads.araba.com
 Domain, ads.aralego.com
 Domain, ads.aroundtherings.com
-Domain, ads.arrl.org
 Domain, ads.artforum.com
 Domain, ads.artsopolis.com
 Domain, ads.as.criteo.com
@@ -3028,6 +3031,7 @@ Domain, ads.edadeal.ru
 Domain, ads.ehealthcaresolutions.com
 Domain, ads.einmedia.com
 Domain, ads.eircom.net
+Domain, ads.ekipa.mk
 Domain, ads.ekstat.com
 Domain, ads.elcarado.com
 Domain, ads.electrocelt.com
@@ -3130,6 +3134,7 @@ Domain, ads.gamecity.net
 Domain, ads.gamecopyworld.no
 Domain, ads.gamemeca.com
 Domain, ads.games.laohu.com
+Domain, ads.games235.com
 Domain, ads.gameservers.com
 Domain, ads.gamespyid.com
 Domain, ads.gamigo.de
@@ -3306,7 +3311,6 @@ Domain, ads.jobson.com
 Domain, ads.joemonster.org
 Domain, ads.jokaroo.com
 Domain, ads.jossip.com
-Domain, ads.jp2.vip.prod.criteo.com
 Domain, ads.juicyads.com
 Domain, ads.juicyads.me
 Domain, ads.justhungry.com
@@ -3474,6 +3478,7 @@ Domain, ads.mythad.com
 Domain, ads.narrowline.com
 Domain, ads.nationalreview.com
 Domain, ads.nationchannel.com
+Domain, ads.navymwr.org
 Domain, ads.ncm.com
 Domain, ads.ndtv1.com
 Domain, ads.nerve.com
@@ -3497,6 +3502,7 @@ Domain, ads.newsland.it
 Domain, ads.newsminerextra.com
 Domain, ads.newsobserver.com
 Domain, ads.newsquest.co.uk
+Domain, ads.newtarget.com
 Domain, ads.newtention.net
 Domain, ads.nexage.com
 Domain, ads.nextday.media
@@ -3610,7 +3616,6 @@ Domain, ads.planet-f1.com
 Domain, ads.planet.nl
 Domain, ads.planetwin365affiliate.com
 Domain, ads.platform.zalo.me
-Domain, ads.platformbackbone.com
 Domain, ads.play.cbsi.video
 Domain, ads.playboy.com
 Domain, ads.playbuzz.com
@@ -3808,7 +3813,6 @@ Domain, ads.space.com
 Domain, ads.spacenine.biz
 Domain, ads.sparkflow.net
 Domain, ads.speakol.com
-Domain, ads.specialadves.com
 Domain, ads.specificclick.com
 Domain, ads.specificmedia.com
 Domain, ads.speead.jp
@@ -3866,6 +3870,7 @@ Domain, ads.tapnative.com
 Domain, ads.tarrobads.com
 Domain, ads.tbs.com
 Domain, ads.tcsemotion.com
+Domain, ads.teads.tv
 Domain, ads.technoratimedia.com
 Domain, ads.techvibes.com
 Domain, ads.techweb.com
@@ -4090,6 +4095,7 @@ Domain, ads.worddictionary.co.uk
 Domain, ads.world-fusigi.net
 Domain, ads.worldstarhiphop.com
 Domain, ads.worthplaying.com
+Domain, ads.wowyowapi.com
 Domain, ads.wwe.biz
 Domain, ads.x-cdn.org
 Domain, ads.x.com
@@ -4275,6 +4281,7 @@ Domain, ads15-normal.zijieapi.com
 Domain, ads15.adtelligent.com
 Domain, ads15.exoticads.com
 Domain, ads15.focalink.com
+Domain, ads150.adtelligent.com
 Domain, ads151.adtelligent.com
 Domain, ads152.adtelligent.com
 Domain, ads153.adtelligent.com
@@ -4746,7 +4753,6 @@ Domain, adsby.io
 Domain, adsby.klikki.com
 Domain, adsbydelema.com
 Domain, adsbynimbus.com
-Domain, adsc.beytoote.com
 Domain, adsc.wasu.tv
 Domain, adscads.de
 Domain, adscale-emea.adnxs.com
@@ -4927,6 +4933,7 @@ Domain, adserver.ariase.org
 Domain, adserver.asiafriendfinder.com
 Domain, adserver.asnetworks.de
 Domain, adserver.assistads.net
+Domain, adserver.associationheadquarters.com
 Domain, adserver.atdnetwork.com
 Domain, adserver.b2c.com
 Domain, adserver.bafrahaber.com
@@ -5227,7 +5234,6 @@ Domain, adservice.google.com.bz
 Domain, adservice.google.com.cu
 Domain, adservice.google.com.cy
 Domain, adservice.google.com.do
-Domain, adservice.google.com.ec
 Domain, adservice.google.com.eg
 Domain, adservice.google.com.et
 Domain, adservice.google.com.gh
@@ -5328,7 +5334,6 @@ Domain, adservice.google.ws
 Domain, adservice.hani.co.kr
 Domain, adservice.kugou.com
 Domain, adservice.sigmob.cn
-Domain, adservice.sigmob.com
 Domain, adservice.tohsoft.com
 Domain, adservicemedia.dk
 Domain, adserviceretry.kglink.cn
@@ -5478,7 +5483,6 @@ Domain, adsok.co
 Domain, adsoldier.com
 Domain, adsolut.cpm.ak-is2.net
 Domain, adsolut.in
-Domain, adsolut.rtb-useast.ak-is2.net
 Domain, adsolutely.com
 Domain, adsolution.de
 Domain, adsolution.imtt.qq.com
@@ -5611,7 +5615,6 @@ Domain, adstax-match-proxy.adrtx.net
 Domain, adstax-match.adrtx.net
 Domain, adstdg.net
 Domain, adstean.com
-Domain, adstella-cdn.relevant-digital.com
 Domain, adsteroid.pro
 Domain, adsterra.com
 Domain, adstest.reklamstore.com
@@ -5808,6 +5811,7 @@ Domain, adv.noblepoker.com
 Domain, adv.onadvantagecs.com
 Domain, adv.p2pbg.com
 Domain, adv.pdbox.co.kr
+Domain, adv.presscommtech.com
 Domain, adv.publy.net
 Domain, adv.pushtimize.com
 Domain, adv.r7.com
@@ -5835,7 +5839,6 @@ Domain, adv2.expres.ua
 Domain, adv2.rcspubblicita.it
 Domain, advack.net
 Domain, advaction.ru
-Domain, advally-audizine-tagan.adlightning.com
 Domain, advalo.com
 Domain, advancdsports.com
 Domain, advance-auto-parts.evyy.net
@@ -5899,7 +5902,6 @@ Domain, adventory.com
 Domain, adventurefeeds-dsp-1.rtb.adx1.com
 Domain, adventurefeeds.com
 Domain, adventurefeeds.xml-eu.ak-is2.net
-Domain, adventurefeeds.xml-v4.ak-is2.net
 Domain, adventurefeeds.xml-v6.ak-is2.net
 Domain, adventurefeeds.xml.ak-is2.net
 Domain, adventuregamers.xyz
@@ -5919,6 +5921,7 @@ Domain, adver.qq.com
 Domain, adverbpublicbinding.com
 Domain, adverbrequire.com
 Domain, adverdata.net
+Domain, advergame-d.openx.net
 Domain, adverity.com
 Domain, adverline.com
 Domain, adverpub.com
@@ -6001,6 +6004,7 @@ Domain, advertisers.speakol.com
 Domain, advertiserscommunity.com
 Domain, advertiseru.net
 Domain, advertiserurl.com
+Domain, advertising-api.amazon.com
 Domain, advertising-cdn.com
 Domain, advertising-cdn.dpgmedia.cloud
 Domain, advertising-eu.amazon.com
@@ -6015,6 +6019,7 @@ Domain, advertising.bayoubuzz.com
 Domain, advertising.bbcworldwide.com
 Domain, advertising.christiansunite.com
 Domain, advertising.com
+Domain, advertising.comcasttechnologysolutions.com
 Domain, advertising.dclux.com
 Domain, advertising.embarcaderopublishing.com
 Domain, advertising.entensity.net
@@ -6056,6 +6061,7 @@ Domain, advertronic.io
 Domain, adverts.creativemark.co.uk
 Domain, adverts.ecn.co.uk
 Domain, adverts.freeloader.com
+Domain, advertsdata.com
 Domain, advertserve.com
 Domain, advertsight.com
 Domain, advertsource.co.uk
@@ -6073,6 +6079,7 @@ Domain, advgame.org
 Domain, adviad.com
 Domain, adviap.goforandroid.com
 Domain, advice-ads-cdn.vice.com
+Domain, advice.api.useinsider.com
 Domain, advice.pgs.io
 Domain, adviceforemost.com
 Domain, adviceth.api.useinsider.com
@@ -6246,10 +6253,10 @@ Domain, adx-winners-ap-southeast-1-rtb.adroll.com
 Domain, adx-winners-eu-west-1-rtb.adroll.com
 Domain, adx-winners-us-east-1-rtb.adroll.com
 Domain, adx-winners-us-west-2-rtb.adroll.com
-Domain, adx.36kr.com
 Domain, adx.3sfmedia.com
 Domain, adx.4strokemedia.com
 Domain, adx.aarki.net
+Domain, adx.ad-plus.com.tr
 Domain, adx.adform.net
 Domain, adx.adk2x.com
 Domain, adx.admaster.com.cn
@@ -6609,7 +6616,6 @@ Domain, amartkurmb.pro
 Domain, amazicapar.pro
 Domain, amazon-adsystem.amazon.com
 Domain, amazon-adsystem.com
-Domain, amazonaws.com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
 Domain, ambassadors.propellerads.com
 Domain, amberbeam.pro
 Domain, amberflick.pro
@@ -6673,7 +6679,6 @@ Domain, amylainnas.pro
 Domain, amylriteale.pro
 Domain, amyludisme.pro
 Domain, amz-ad.a8.net
-Domain, an.adsterra.com
 Domain, an.yandex.ru
 Domain, anabacontr.pro
 Domain, anacomisco.pro
@@ -6716,7 +6721,6 @@ Domain, analytics.163.com
 Domain, analytics.ad.daum.net
 Domain, analytics.admon.com.vn
 Domain, analytics.adpost.org
-Domain, analytics.adsum.io
 Domain, analytics.adultswim.co.uk
 Domain, analytics.algoepico.net
 Domain, analytics.amakings.com
@@ -7148,7 +7152,6 @@ Domain, anycast.bapi.adsafeprotected.com
 Domain, anycast.dt.adsafeprotected.com
 Domain, ao.ads.justpremium.com
 Domain, aod-image-material.cdn.bcebos.com
-Domain, aomenc.com1.i7kb2iicom1leadsb2iis3.com67.authorization.callnet-v2rail.tryodelorc.amazonaws.com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
 Domain, aonoannac.pro
 Domain, aorecamba.pro
 Domain, aortouninv.pro
@@ -7335,6 +7338,7 @@ Domain, api.88new.cc
 Domain, api.99vn.bet
 Domain, api.a.mts.ru
 Domain, api.abcsinsights.com
+Domain, api.abtasty.com
 Domain, api.accelerator.intl.miui.com
 Domain, api.accengage.com
 Domain, api.accengage.net
@@ -7440,13 +7444,11 @@ Domain, api.airbrake.io
 Domain, api.airpush.com
 Domain, api.aixifan.com
 Domain, api.aklamio.com
-Domain, api.albacross.com
 Domain, api.alphonso.tv
 Domain, api.altamob.com
 Domain, api.altmetric.com
 Domain, api.amplitude.com
 Domain, api.amplitudeexperiment.com
-Domain, api.analytics.gothamsports.com
 Domain, api.analytics.omgpop.com
 Domain, api.analytics.pigment.app
 Domain, api.analytics.redbubble.com
@@ -7523,7 +7525,6 @@ Domain, api.bluecore.com
 Domain, api.bluerunningshadow.com
 Domain, api.boclinkads.com
 Domain, api.boomtrain.com
-Domain, api.boorantech.com
 Domain, api.botman.ninja
 Domain, api.bounceexchange.com
 Domain, api.boxever.com
@@ -7572,6 +7573,7 @@ Domain, api.cludo.com
 Domain, api.co-operativefinance.com
 Domain, api.coinerra.com
 Domain, api.collect.data.intl.miui.com
+Domain, api.compado.com
 Domain, api.company-target.com
 Domain, api.competition.intl.miui.com
 Domain, api.condenast.io
@@ -7598,6 +7600,7 @@ Domain, api.dabet.club
 Domain, api.dable.io
 Domain, api.danmu.tv.sohu.com
 Domain, api.data-analytics.pokemon.com
+Domain, api.data.beautyplus.com
 Domain, api.databreakers.com
 Domain, api.dataroid.com
 Domain, api.datasteam.io
@@ -7610,6 +7613,7 @@ Domain, api.deep-ad.com
 Domain, api.deep.bi
 Domain, api.demand.supply
 Domain, api.demandbase.com
+Domain, api.devatics.io
 Domain, api.developer.xiaomi.com
 Domain, api.device.skysrt.com
 Domain, api.dewmobile.net
@@ -7627,11 +7631,13 @@ Domain, api.doumob.com
 Domain, api.dsp.madserving.com
 Domain, api.dsp.yhd.com
 Domain, api.dtk.abtasty.com
+Domain, api.dttrk.com
 Domain, api.duapp.com
 Domain, api.e.kuaishou.cn
 Domain, api.e.mi.com
 Domain, api.eaglem.net
 Domain, api.eagllwin.com
+Domain, api.early-birds.io
 Domain, api.ecomsend.com
 Domain, api.ematicsolutions.com
 Domain, api.engager.ecbsn.com
@@ -7725,6 +7731,8 @@ Domain, api.i9bet34.com
 Domain, api.i9bet36.com
 Domain, api.iad3rs0zone1.pubnative.net
 Domain, api.iad3rs0zone2.pubnative.net
+Domain, api.iad3rs0zonea.pubnative.net
+Domain, api.iad3rs0zoneb.pubnative.net
 Domain, api.ibeat-analytics.com
 Domain, api.id5-sync.com
 Domain, api.idio.co
@@ -7830,6 +7838,7 @@ Domain, api.metrix.ir
 Domain, api.mf.webcontentassessor.com
 Domain, api.mg2insights.com
 Domain, api.mgid.com
+Domain, api.midas-network.com
 Domain, api.minero.cc
 Domain, api.mini.wps.cn
 Domain, api.miniatm.com.br
@@ -8106,7 +8115,6 @@ Domain, api.sve.cc
 Domain, api.swrve.com
 Domain, api.swypeconnect.com
 Domain, api.taboola.com
-Domain, api.taboola.sve.cc
 Domain, api.tads.me
 Domain, api.taggrs.io
 Domain, api.takeads.com
@@ -8218,7 +8226,6 @@ Domain, api.voiceads.cn
 Domain, api.vungle.akadns.net
 Domain, api.vungle.com
 Domain, api.vungle.com.edgekey.net
-Domain, api.vupulse.com
 Domain, api.w.inmobi.com
 Domain, api.webengage.com
 Domain, api.webhop.me
@@ -8250,7 +8257,6 @@ Domain, api.yieldkit.com
 Domain, api.yieldlab.net
 Domain, api.yieldlove-ad-serving.net
 Domain, api.youngle.tech
-Domain, api.youtu.qq.com
 Domain, api.youxiaoad.com
 Domain, api.youzu.com
 Domain, api.yuedu.iqiyi.com
@@ -8681,7 +8687,6 @@ Domain, auth2.cityads.com
 Domain, authbe.sec.intl.miui.com
 Domain, authenticbutterfly.pro
 Domain, author.bloggerads.net
-Domain, authorization.callnet-v2rail.tryodelorc.amazonaws.com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
 Domain, auto-load-balancer.advividnetwork.com
 Domain, auto-satellite.advividnetwork.com
 Domain, autoads.asia
@@ -8740,6 +8745,7 @@ Domain, avvitrestr.pro
 Domain, avvolperid.pro
 Domain, aw.dw.impact-ad.jp
 Domain, aw.mic.mob.com
+Domain, awa-apne1-1.advanced-web-analytics.com
 Domain, awa-civ-useast1-1.advanced-web-analytics.com
 Domain, awa-eucn1-1.advanced-web-analytics.com
 Domain, awa-eucn1-2.advanced-web-analytics.com
@@ -8753,6 +8759,7 @@ Domain, awa-uswest1-1.advanced-web-analytics.com
 Domain, awesomeads.superawesome.tv
 Domain, aweucn1-2.advanced-web-analytics.com
 Domain, aweucn1-3.advanced-web-analytics.com
+Domain, aweucn1.advanced-web-analytics.com
 Domain, aweuwv.advanced-web-analytics.com
 Domain, awppcivuse1.advanced-web-analytics.com
 Domain, awpwzbbhixuo.pro
@@ -8812,11 +8819,21 @@ Domain, b1-data.ads.heytapmobi.com
 Domain, b1.ads.oppomobile.com
 Domain, b2-data.ads.heytapmobi.com
 Domain, b2.dcntr-ads.com
+Domain, b20.dcntr-ads.com
+Domain, b21.dcntr-ads.com
+Domain, b24.dcntr-ads.com
+Domain, b26.dcntr-ads.com
 Domain, b27.dcntr-ads.com
+Domain, b29.dcntr-ads.com
+Domain, b3.dcntr-ads.com
+Domain, b30.dcntr-ads.com
+Domain, b36.dcntr-ads.com
 Domain, b37.dcntr-ads.com
+Domain, b39.dcntr-ads.com
+Domain, b4.dcntr-ads.com
 Domain, b40.dcntr-ads.com
 Domain, b41.dcntr-ads.com
-Domain, b42.dcntr-ads.com
+Domain, b43.dcntr-ads.com
 Domain, b4d7f9ad-9746-4daa-b552-8205ef41f49d.edge.permutive.app
 Domain, b52.mobi
 Domain, b7ad4cb575.dplsus.online
@@ -9064,7 +9081,6 @@ Domain, bce.baidu.com
 Domain, bce.bj.ad.track.66mobi.com
 Domain, bclays-ads.aimatch.com
 Domain, bdapi-ads.realmemobile.com
-Domain, bdapi-f.ads.heytapmobile.com
 Domain, bdapi-id-ads.realmemobile.com
 Domain, bdapi-id.ads.heytapmobi.com
 Domain, bdapi-id.ads.heytapmobile.com
@@ -9641,7 +9657,6 @@ Domain, breezyvibes.pro
 Domain, breezywave.pro
 Domain, breezywords.pro
 Domain, bregasciag.pro
-Domain, brend.specialadves.com
 Domain, bresabrocc.pro
 Domain, brevipacas.pro
 Domain, brewebizan.pro
@@ -10066,7 +10081,6 @@ Domain, calibscoll.pro
 Domain, call-ad-network-api.marchex.com
 Domain, callihals.pro
 Domain, callimaran.pro
-Domain, callnet-v2rail.tryodelorc.amazonaws.com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
 Domain, calltynogy.pro
 Domain, calmamastu.pro
 Domain, calmmist.pro
@@ -10303,6 +10317,7 @@ Domain, cdn-store-icons-akamai-prd.unityads.unity3d.com
 Domain, cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net
 Domain, cdn-store-icons-cloudfront-prd.unityads.unity3d.com
 Domain, cdn-store-icons-tp-prd.unityads.unity3d.com
+Domain, cdn-us-east.advertserve.com
 Domain, cdn-us.advlion.com
 Domain, cdn-vast.adspruce.com
 Domain, cdn-video.adspruce.com
@@ -10428,6 +10443,7 @@ Domain, cdn.ringier-advertising.ch
 Domain, cdn.rossoad.com
 Domain, cdn.seaofads.com
 Domain, cdn.serving.ad.org.vn
+Domain, cdn.smart1adserver.com
 Domain, cdn.smartnews-ads.com
 Domain, cdn.solads.media
 Domain, cdn.stickyadstv.com
@@ -10435,7 +10451,6 @@ Domain, cdn.stickyadstv.com.akadns.net
 Domain, cdn.targetads.io
 Domain, cdn.teads.tv
 Domain, cdn.teads.tv.edgekey.net
-Domain, cdn.theadx.com
 Domain, cdn.tpdads.com
 Domain, cdn.tutoads.tv
 Domain, cdn.uc.atwola.com
@@ -10933,7 +10948,6 @@ Domain, click.sellmeyourtraffic.com
 Domain, click.sexmoney.com
 Domain, click.silvercash.com
 Domain, click.space-link.shop
-Domain, click.specialadves.com
 Domain, click.speee-ad.jp
 Domain, click.ssp.d2c.ne.jp
 Domain, click.startappservice.com
@@ -11055,6 +11069,7 @@ Domain, cn2-bid.adsrvr.cn
 Domain, cn2.adserver.yahoo.com
 Domain, cn3-bid.adsrvr.cn
 Domain, cn9-bid.adsrvr.cn
+Domain, cnadv01.invl.co
 Domain, cncapi.getui.com
 Domain, cnerag.pro
 Domain, cnf.adbana.com
@@ -11079,6 +11094,7 @@ Domain, cocorteser.pro
 Domain, codarsana.pro
 Domain, code.adsales.snidigital.com
 Domain, code.adsinnov.com
+Domain, code.adstanding.com
 Domain, code.directadvert.ru
 Domain, code.hot-mob.com
 Domain, code.native-ad.net
@@ -11136,9 +11152,6 @@ Domain, com.ads.justpremium.com
 Domain, com.adv.vz.ru
 Domain, com.yxcorp.gifshow.ad
 Domain, com.yxcorp.gifshow.map
-Domain, com1.i7kb2iicom1leadsb2iis3.com67.authorization.callnet-v2rail.tryodelorc.amazonaws.com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
-Domain, com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
-Domain, com67.authorization.callnet-v2rail.tryodelorc.amazonaws.com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
 Domain, combamasca.pro
 Domain, combibarbu.pro
 Domain, combitrasl.pro
@@ -11432,6 +11445,7 @@ Domain, cpu32-cfy59.ads.tremorhub.com
 Domain, cpu32-j0bsd.ads.tremorhub.com
 Domain, cpu32-pac6o.ads.tremorhub.com
 Domain, cpu32-vvlc7.ads.tremorhub.com
+Domain, cpu32-wtkcx.ads.tremorhub.com
 Domain, cpu32-yraax.ads.tremorhub.com
 Domain, cpu32-zs9v8.ads.tremorhub.com
 Domain, cpucdn.baidu.com
@@ -11439,6 +11453,7 @@ Domain, cpx-traffic.com
 Domain, cr-p1.ladsp.com
 Domain, cr-p10.ladsp.com
 Domain, cr-p10060.ladsp.com
+Domain, cr-p10500.ladsp.com
 Domain, cr-p11.ladsp.com
 Domain, cr-p16.ladsp.com
 Domain, cr-p22000.ladsp.jp
@@ -11685,6 +11700,7 @@ Domain, dagydiy6.pro
 Domain, daia.ero-advertising.com
 Domain, daidlcaggi.pro
 Domain, dailyheadvortex.com
+Domain, damagedadvice.com
 Domain, damasdisfe.pro
 Domain, damiatermi.pro
 Domain, dancibabys.pro
@@ -11754,6 +11770,7 @@ Domain, dazzlefluff.pro
 Domain, dazzlingdolphins.pro
 Domain, dazzlingvortex.pro
 Domain, dazzmeup.pro
+Domain, db.adswag.nl
 Domain, db02cyz1aujy9.moatads.com
 Domain, dbg52463.moatads.com
 Domain, dbta.ero-advertising.com
@@ -11943,7 +11960,6 @@ Domain, deuteciber.pro
 Domain, deutedevol.pro
 Domain, dev-adload.skyadsmart.com
 Domain, dev.flurry.com
-Domain, dev.gen.adsrvr.org
 Domain, dev.hb.brainlyads.com
 Domain, dev.mobilead.vn
 Domain, dev.tg.wan.360.cn
@@ -12531,9 +12547,9 @@ Domain, dsp.vlion.cn
 Domain, dsp.xapads.com
 Domain, dsp.youdao.com
 Domain, dsp1.unoadsrv.com
+Domain, dsp2.ad-plus.com.tr
 Domain, dspapi.bidtellect.com
 Domain, dspimg.adsame.com
-Domain, dspsdk.pinduoduo.com
 Domain, dspwin.adsame.com
 Domain, dt.adsafeprotected.com
 Domain, dt.adx1.com
@@ -12642,6 +12658,7 @@ Domain, ebook.res.meizu.com
 Domain, ebricbelon.pro
 Domain, ebulientlanguage.pro
 Domain, ec.ads.justpremium.com
+Domain, ecads2.mediasmart.io
 Domain, ecceccoyes.pro
 Domain, ecceddispe.pro
 Domain, eccedinfra.pro
@@ -12770,6 +12787,7 @@ Domain, engine.nectarads.com
 Domain, engine.tronads.io
 Domain, engineering.adsplay.net
 Domain, engracentr.pro
+Domain, enjoyads.videoshowapp.com
 Domain, ensurvibri.pro
 Domain, entabfireb.pro
 Domain, entairota.pro
@@ -12871,6 +12889,7 @@ Domain, esibiresum.pro
 Domain, esimecolla.pro
 Domain, esiodaffie.pro
 Domain, esistrboun.pro
+Domain, esmwfs.skadsdk.appsflyersdk.com
 Domain, esordcuveno.pro
 Domain, esortantit.pro
 Domain, espatincri.pro
@@ -12951,7 +12970,6 @@ Domain, eunicvisce.pro
 Domain, euniverseads.com
 Domain, euphorianest.pro
 Domain, euploadatt.pro
-Domain, eur-bid-bigo.adsrvr.org
 Domain, eur-bid-hubvisor.adsrvr.org
 Domain, eur-ukp.adsrvr.org
 Domain, eurads.simpli.fi
@@ -13184,11 +13202,9 @@ Domain, file.ipinyou.com.cn
 Domain, filermetro.pro
 Domain, files-downloads.com
 Domain, files.adspdbl.com
-Domain, filter-eu.pwr-ads.com
 Domain, filter.adsparkmedia.net
 Domain, filter.advlistings.com
 Domain, filter.adxfactory.com
-Domain, filter.bidderads.com
 Domain, filter.explorads.com
 Domain, filteradkernel.adsimilate.com
 Domain, fim.adnxs.com
@@ -13322,7 +13338,6 @@ Domain, forexadv.eu
 Domain, forfadiscr.pro
 Domain, forfearta.pro
 Domain, foribya.pro
-Domain, form.ads.zalo.me
 Domain, formaarsen.pro
 Domain, formacompr.pro
 Domain, formuparos.pro
@@ -13561,14 +13576,12 @@ Domain, gatdcsqanvf.pro
 Domain, gateway-a.unityads.unity3d.com
 Domain, gateway-b.unityads.unity3d.com
 Domain, gateway-metal-eu-r5-fo-02.gadsme.com
-Domain, gateway-metal-eu-r5-fo-04.gadsme.com
 Domain, gateway-metal-us-r4-01.gadsme.com
 Domain, gateway-metal-us-r4-fo-01.gadsme.com
 Domain, gateway-metal-us-r4-fo-02.gadsme.com
 Domain, gateway.gen.adsrvr.org
 Domain, gateway.ttpsdk.info
 Domain, gateway.unityads.unity3d.com
-Domain, gateway.unityads.unitychina.cn
 Domain, gatorleads.co.uk
 Domain, gaudiinurb.pro
 Domain, gayads.biz
@@ -13577,7 +13590,6 @@ Domain, gazgold.pro
 Domain, gazusie1.pro
 Domain, gbads.net
 Domain, gbp.ebayadvertising.triadretail.net
-Domain, gc-adsrv-static.rtbsuperhub.com
 Domain, gcads.osdn.com
 Domain, gcd.mmstat.com
 Domain, gcdn.2mdn.net
@@ -13590,7 +13602,7 @@ Domain, gcirm.honoluluadvertiser.gcion.com
 Domain, gcirm.montgomeryadvertiser.com
 Domain, gcm.naiadsystems.com
 Domain, gcmadv-cdn.goldspotmedia.com
-Domain, gdeobid.adview.com
+Domain, gcmapi.wshareit.com
 Domain, gdeorpt.adview.com
 Domain, gdfp.gifshow.com
 Domain, gdl.tapulsads.ru
@@ -13782,7 +13794,6 @@ Domain, go.dlads.cn
 Domain, go.ero-advertising.com
 Domain, go.eroadvertising.com
 Domain, go.goadserver.com
-Domain, go.kkadverts.com
 Domain, go.mmstat.com
 Domain, go.mobpartner.mobi
 Domain, go.padsdel.com
@@ -13972,6 +13983,7 @@ Domain, gynansubte.pro
 Domain, gypakau5.pro
 Domain, gzads.com
 Domain, gzjkbid.adview.com
+Domain, gzjroa.bradsdeals.com
 Domain, gzpwuzjliooz.pro
 Domain, gzs20.cnzz.com
 Domain, h-adashx.ut.taobao.com
@@ -14081,7 +14093,6 @@ Domain, herkguxhkogr.pro
 Domain, hermarokea.pro
 Domain, hermes.hupu.com
 Domain, herpeesaco.pro
-Domain, hesads.akamaized.net
 Domain, hespemisdi.pro
 Domain, hespestrep.pro
 Domain, hessiyodle.pro
@@ -14144,7 +14155,6 @@ Domain, homepage.adnxs.com
 Domain, homepage2.adnxs.com
 Domain, homewhelon.pro
 Domain, homogrheum.pro
-Domain, honchads.apse.svr.rixengine.com
 Domain, honeycomb.wps.cn
 Domain, honeydrift.pro
 Domain, hopefrebut.pro
@@ -14211,7 +14221,6 @@ Domain, hubble-web.production.ads.tmmp.io
 Domain, hubt.pornhub.com
 Domain, hucupei5.pro
 Domain, hueads.com
-Domain, hueads.xml.ak-is2.net
 Domain, hueadsortb.com
 Domain, hueadsxml.com
 Domain, huffzidally.pro
@@ -14307,7 +14316,6 @@ Domain, i2.mixadvert.com
 Domain, i4amb9u1wymi.l.adsco.re
 Domain, i6.smartnews-ads.com
 Domain, i79zj-tzyj9.ads.tremorhub.com
-Domain, i7kb2iicom1leadsb2iis3.com67.authorization.callnet-v2rail.tryodelorc.amazonaws.com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
 Domain, i9.pro
 Domain, iab-imp-gateway.supersonicads.com
 Domain, iad-01.braze.com
@@ -15198,6 +15206,7 @@ Domain, jp.l.gm.mob.com
 Domain, jp1-bid-ga.adsrvr.org
 Domain, jp1-bid.adsrvr.org
 Domain, jp3adv-cdn.goldspotmedia.com
+Domain, jpfw.adsafeprotected.com
 Domain, jppixel.adsafeprotected.com
 Domain, jqmt.qq.com
 Domain, jr.ads.zalo.me
@@ -15366,7 +15375,6 @@ Domain, krokiicoor.pro
 Domain, kryptplagi.pro
 Domain, kstj.baidu.com
 Domain, kt88.pro
-Domain, ktk7k-1eakg.ads.tremorhub.com
 Domain, ktokto.mobi
 Domain, ktqtyggmqgug.pro
 Domain, ku11.pro
@@ -15409,6 +15417,7 @@ Domain, la-ad-api.hisavana.com
 Domain, lab3.adserve.zone
 Domain, labefsafen.pro
 Domain, laccidisme.pro
+Domain, lacentrale-1.leadsmonitor.io
 Domain, lacerta.iad-03.appboy.com
 Domain, lacerta.iad.appboy.com
 Domain, laconrigri.pro
@@ -15582,7 +15591,6 @@ Domain, lf26-common-ckv-tos.pstatp.com
 Domain, lf27-common-ckv-tos.pstatp.com
 Domain, lf28-common-ckv-tos.pstatp.com
 Domain, lf29-common-ckv-tos.pstatp.com
-Domain, lf3-ad-platform.byteadverts.com
 Domain, lf3-ad-sign.byteadverts.com
 Domain, lf3-common-ckv-tos.pstatp.com
 Domain, lf3-sf-be-pack-sign.pglstatp-toutiao.com
@@ -15598,6 +15606,8 @@ Domain, lf8-common-ckv-tos.pstatp.com
 Domain, lf9-ad-sign.byteadverts.com
 Domain, lf9-ad-union-sdk.pglstatp-toutiao.com
 Domain, lf9-common-ckv-tos.pstatp.com
+Domain, lgads.adsmeasurement.com
+Domain, lgads.tv
 Domain, lh3.googleadsserving.cn
 Domain, lib.wtg-ads.com
 Domain, libanbedia.pro
@@ -16015,6 +16025,7 @@ Domain, material-ssl.mediav.com
 Domain, material.jfdaily.adsame.com
 Domain, material.mediav.com
 Domain, mathads.com
+Domain, maticooads.com
 Domain, matomy.adk2.co
 Domain, matrolallte.pro
 Domain, maturprese.pro
@@ -16200,6 +16211,7 @@ Domain, metrics-ad-drcn.dt.dbankcloud.com
 Domain, metrics-ad-drcn.dt.hihonorcloud.cn
 Domain, metrics-ad-drcn.dt.hihonorcloud.com
 Domain, metrics-api.librato.com
+Domain, metrics.adswag.nl
 Domain, metrics.api.drift.com
 Domain, metrics1-drcn.dt.dbankcloud.cn
 Domain, metrics1-drcn.dt.dbankcloud.eu
@@ -16491,7 +16503,6 @@ Domain, msn.tns-cs.net
 Domain, msoftdl.360.cn
 Domain, mssdk-bu.bytedance.com
 Domain, mssdk.bytedance.com
-Domain, mssdk.snssdk.com
 Domain, mssdk.tiktokw.us
 Domain, mssdk.volces.com
 Domain, mssdk.zijieapi.com
@@ -16624,11 +16635,9 @@ Domain, nad-stage1.ad-stir.com
 Domain, nad.ad-stir.com
 Domain, nad.leadboltads.net
 Domain, nados-lb-iad.moatads.com
-Domain, nados-lb-lhr.moatads.com
 Domain, nados-lb-phx.moatads.com
 Domain, nads.io
 Domain, nafteteser.pro
-Domain, naiadmedia.naiadsystems.com
 Domain, naiadsystems.com
 Domain, naileaggri.pro
 Domain, nairittenow.pro
@@ -16813,6 +16822,7 @@ Domain, nj-dsp-ads.lfstmedia.com
 Domain, nl-gcp-ad-track-sdk-europe-west4-b.mtgglobals.com
 Domain, nl-gcp-ad-track-sdk-europe-west4-c.mtgglobals.com
 Domain, nl-geo.cityads.com
+Domain, nl-geo.cityadspix.com
 Domain, nl.ads.justpremium.com
 Domain, nl.adserver.yahoo.com
 Domain, nl.notice.iqiyi.com
@@ -17015,7 +17025,6 @@ Domain, ofeetles.pro
 Domain, offenfisti.pro
 Domain, offers.propellerads.com
 Domain, offerupinc-offerup.adsbynimbus.com
-Domain, office.joinads.me
 Domain, office365-eu-update.com
 Domain, office365-us-update.com
 Domain, officgeocr.pro
@@ -17885,6 +17894,7 @@ Domain, periserbor.pro
 Domain, peritcostu.pro
 Domain, perivtyler.pro
 Domain, permaabbru.pro
+Domain, permaleads.ch
 Domain, permechemo.pro
 Domain, permoinnev.pro
 Domain, pernosnorus.pro
@@ -17919,7 +17929,6 @@ Domain, pg.bid-na.ads.aps.amazon-adsystem.com
 Domain, pg.event-na.ads.aps.amazon-adsystem.com
 Domain, pg.xdrig.com
 Domain, pg308-zmbra.ads.tremorhub.com
-Domain, pgapi.ksmobile.com
 Domain, pge.unityads.unity3d.com
 Domain, pglstatp-toutiao-b.com
 Domain, pglstatp-toutiao.com
@@ -18031,6 +18040,7 @@ Domain, pitk.birdgesdk.com
 Domain, pittaascia.pro
 Domain, pittadisap.pro
 Domain, pittodisme.pro
+Domain, piwik.advantic.de
 Domain, piwik.ero-advertising.com
 Domain, piwik.unoadsrv.com
 Domain, pixel-dsp.pubadx.one
@@ -18045,6 +18055,7 @@ Domain, pixel.advertising.com
 Domain, pixel.autoads.asia
 Domain, pixel.madadsmedia.com
 Domain, pixel.moatads.com
+Domain, pixel.rtgads.com
 Domain, pixel.xapads.com
 Domain, pixels.ad.gt
 Domain, pixeltrack.eyeviewads.com
@@ -18411,6 +18422,7 @@ Domain, profuimbam.pro
 Domain, progederog.pro
 Domain, progesempl.pro
 Domain, progressive.lp.mydas.mobi
+Domain, projectadv-d.openx.net
 Domain, projectorreviews.advertserve.com
 Domain, prolibelie.pro
 Domain, prolicaute.pro
@@ -18534,6 +18546,7 @@ Domain, publishers.domainadvertising.com
 Domain, publishers.gourmetads.com
 Domain, publishers.propellerads.com
 Domain, publiuncon.pro
+Domain, publyads.jstag.space
 Domain, pubudoy.pro
 Domain, pubuwie9.pro
 Domain, pudilique.pro
@@ -18589,7 +18602,6 @@ Domain, pv.vipads.cc
 Domain, pw.analytics.console.aws.a2z.com
 Domain, pw.cnzz.com
 Domain, pwefrn.pro
-Domain, pwr-ads.com
 Domain, px.ad-tech.ru
 Domain, px.ads.linkedin.com
 Domain, px.adx.opera.com
@@ -19514,7 +19526,6 @@ Domain, rosopii4.pro
 Domain, rosseladvertising.be
 Domain, rotanev.iad-03.braze.com
 Domain, rotatinscu.pro
-Domain, rotator.adsmediator.com
 Domain, rotator.beginads.com
 Domain, roteaducar.pro
 Domain, roteconfe.pro
@@ -19564,8 +19575,10 @@ Domain, rtb-useast.ergadx.com
 Domain, rtb-useast.hueadsortb.com
 Domain, rtb-useast.rtbflairads.com
 Domain, rtb-usw.mfadsrvr.com
+Domain, rtb-uswest.hueadsortb.com
 Domain, rtb.ad-stir.com
 Domain, rtb.admaster.com.cn
+Domain, rtb.ads.apac.travelaudience.com
 Domain, rtb.ads.production.travelaudience.com
 Domain, rtb.ads.travelaudience.com
 Domain, rtb.ads.us-east.travelaudience.com
@@ -19620,7 +19633,6 @@ Domain, rtbapi.douyucdn.cn
 Domain, rtbflairads.com
 Domain, rtbus.ssp.metaxads.com
 Domain, rts.mobula.sdk.duapps.com
-Domain, rtus-js.ad-stir.com
 Domain, ru-geo.cityads.com
 Domain, ru.ads.justpremium.com
 Domain, ru.mst.dns-cloud.net
@@ -19805,6 +19817,7 @@ Domain, s26.cnzz.com
 Domain, s27.cnzz.com
 Domain, s28.cnzz.com
 Domain, s29.cnzz.com
+Domain, s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 Domain, s2s-sc-main-was.adservrs.com
 Domain, s2s.adjust.com
 Domain, s2s.pg.bid-na.ads.aps.amazon-adsystem.com
@@ -20209,8 +20222,6 @@ Domain, scorchads.com
 Domain, scorcpuckb.pro
 Domain, scorcrisof.pro
 Domain, scoremobileinc-thescore.adsbynimbus.com
-Domain, scoremobileinc-thescorevideo.adsbynimbus.com
-Domain, scoresapp-baseballmlblivescores.adsbynimbus.com
 Domain, scoring.unoadsrv.com
 Domain, scorncompu.pro
 Domain, scornincri.pro
@@ -20260,6 +20271,8 @@ Domain, sdk-02.moengage.com
 Domain, sdk-ab-config.aiclk.com
 Domain, sdk-analytics.inlocomedia.com
 Domain, sdk-android.ad.smaato.net
+Domain, sdk-api-linode1.maticooads.com
+Domain, sdk-api-us.maticooads.com
 Domain, sdk-api-v1.singular.net
 Domain, sdk-api.justtrack.io
 Domain, sdk-api.maticooads.com
@@ -20424,6 +20437,7 @@ Domain, sdk.voiceads.cn
 Domain, sdk.wesdk.co
 Domain, sdk.yolanda.hk
 Domain, sdk.youappi.com
+Domain, sdk.yoyi.com.cn
 Domain, sdk.zadn.vn
 Domain, sdk.zapr.in
 Domain, sdk.zsdfm.com
@@ -20499,7 +20513,6 @@ Domain, secureads.g.doubleclick.net
 Domain, secureleadsforever.com
 Domain, secureleadsrn.com
 Domain, securepubads.g.doubleclick.net
-Domain, securepubads.shareus.io
 Domain, security-check-u8a6.com
 Domain, security-hl.snssdk.com
 Domain, security-lq.snssdk.com
@@ -20652,6 +20665,7 @@ Domain, sestat.baidu.com
 Domain, settings-analytics.hotstar.com
 Domain, setup.advancedcleaner.com
 Domain, setupad-d.openx.net
+Domain, setupad-tagan.adlightning.com
 Domain, seure-update.fartit.com
 Domain, severevide.pro
 Domain, sewacea6.pro
@@ -20920,7 +20934,6 @@ Domain, slckg-nugvu.ads.tremorhub.com
 Domain, slckg-qrmhc.ads.tremorhub.com
 Domain, sliide-dolphin.adsbynimbus.com
 Domain, sliide-huubtracfone.adsbynimbus.com
-Domain, sliide-tmobileplay.adsbynimbus.com
 Domain, slimads.vn
 Domain, slimecasto.pro
 Domain, slinliber.pro
@@ -21007,6 +21020,7 @@ Domain, smt.admaster.com.cn
 Domain, smtp.adx1.com
 Domain, smtp.ero-advertising.com
 Domain, smzecamer.pro
+Domain, snap.broadstreetads.com
 Domain, snapads.com
 Domain, snaptwinkle.pro
 Domain, snervdesig.pro
@@ -21169,7 +21183,6 @@ Domain, spazicarso.pro
 Domain, spazinomof.pro
 Domain, spazipasqu.pro
 Domain, spazzincam.pro
-Domain, specialadves.com
 Domain, specidiroz.pro
 Domain, specificads.g2afse.com
 Domain, specipetto.pro
@@ -21292,7 +21305,6 @@ Domain, srv.buysellads.com
 Domain, srv.carbonads.net
 Domain, srv.dsp.madserving.com
 Domain, srv.juiceadv.com
-Domain, srv8.marsads.com
 Domain, srvupads.com
 Domain, ss.ads.justpremium.com
 Domain, ssads.osdn.com
@@ -21307,6 +21319,7 @@ Domain, ssb-us.smartadserver.com
 Domain, ssb-use1.smartadserver.com
 Domain, ssb-use2.smartadserver.com
 Domain, ssb-usw1.smartadserver.com
+Domain, ssb-usw3.smartadserver.com
 Domain, ssbsync-apac1.smartadserver.com
 Domain, ssbsync-euw1.smartadserver.com
 Domain, ssbsync-euw2.smartadserver.com
@@ -21531,6 +21544,7 @@ Domain, staticads.btopenworld.com
 Domain, statics.adanxing.com
 Domain, statics.woozooo.com
 Domain, staticsns.cdn.bcebos.com
+Domain, staticupload-eu.oct8ne.com
 Domain, statika.mpsuadv.ru
 Domain, statis.push.netease.com
 Domain, statistic.ads24h.net
@@ -21972,6 +21986,7 @@ Domain, t.xapads.com
 Domain, t0.extreme-dm.com
 Domain, t1.a.market.xiaomi.com
 Domain, t1.adserver.com
+Domain, t1.dcntr-ads.com
 Domain, t1.extreme-dm.com
 Domain, t1.teads.tv
 Domain, t1.teads.tv.edgekey.net
@@ -21989,6 +22004,7 @@ Domain, t22448.adserverevent.com
 Domain, t2377.adserverevent.com
 Domain, t2378.adserverevent.com
 Domain, t2397.adserverevent.com
+Domain, t2g-dashboard-uploads.vm5apis.com
 Domain, t3.a.market.xiaomi.com
 Domain, t3.teads.tv
 Domain, t3.teads.tv.edgekey.net
@@ -22037,7 +22053,6 @@ Domain, tagmediation.supersonicads.com
 Domain, tags-cdn.deployads.com
 Domain, tags-dev.adsafety.net
 Domain, tags.adsafety.net
-Domain, tags.adsight.nl
 Domain, tags.adstudio.cloud
 Domain, tags.api.umbel.com
 Domain, tags.deployads.com
@@ -22083,7 +22098,6 @@ Domain, tapdhomeo.pro
 Domain, tapepredesn.pro
 Domain, tapixesa.pro
 Domain, tapjoyads.com
-Domain, tappads.io
 Domain, tapulsads.ru
 Domain, targetads.io
 Domain, targeting.api.drift.com
@@ -22098,7 +22112,6 @@ Domain, tas-hr.toboads.com
 Domain, tas-ks.toboads.com
 Domain, tas-mk.toboads.com
 Domain, tas-rs.toboads.com
-Domain, tas-ru.toboads.com
 Domain, tas-si.toboads.com
 Domain, tas2.toboads.si
 Domain, tattitener.pro
@@ -22199,7 +22212,6 @@ Domain, test.adsp.xunlei.com
 Domain, test.aionclassic.pro
 Domain, test.bricks.e.qq.com
 Domain, test.e.ad.xiaomi.com
-Domain, test.gen.adsrvr.org
 Domain, test.surepush.cn
 Domain, test.vlion.cn
 Domain, test.zeus.ad.xiaomi.com
@@ -22360,16 +22372,19 @@ Domain, tm.ads.sportradar.com
 Domain, tm.r-ad.ne.jp
 Domain, tm2.r-ad.ne.jp
 Domain, tm701.ad-srv.net
+Domain, tm702.ad-srv.net
+Domain, tm709.ad-srv.net
 Domain, tm710.ad-srv.net
 Domain, tm713.ad-srv.net
 Domain, tm714.ad-srv.net
-Domain, tm715.ad-srv.net
+Domain, tm716.ad-srv.net
 Domain, tm718.ad-srv.net
 Domain, tm722.ad-srv.net
 Domain, tm724.ad-srv.net
 Domain, tm726.ad-srv.net
 Domain, tm728.ad-srv.net
 Domain, tm729.ad-srv.net
+Domain, tm730.ad-srv.net
 Domain, tmads.xyz
 Domain, tmatch.adsame.com
 Domain, tmfsdk.m.qq.com
@@ -22562,6 +22577,7 @@ Domain, tracker.ero-advertising.com
 Domain, tracker.iionads.com
 Domain, tracker.intermedia-advertising.com
 Domain, tracker.leadsius.com
+Domain, tracker.maticooads.com
 Domain, tracker.mca-analytics.com
 Domain, tracker.sns.iqiyi.com
 Domain, tracker.yfanads.com
@@ -22581,7 +22597,6 @@ Domain, tracking.ad-brix.com
 Domain, tracking.ad-survey.com
 Domain, tracking.ads.global-fashion-group.com
 Domain, tracking.ads.ibibo.com
-Domain, tracking.adseedtech.com
 Domain, tracking.adsup.me
 Domain, tracking.adwo.com
 Domain, tracking.adxadserv.com
@@ -22594,6 +22609,7 @@ Domain, tracking.dsmmadvantage.com
 Domain, tracking.ero-advertising.com
 Domain, tracking.euroads.dk
 Domain, tracking.kissmyads.com
+Domain, tracking.leadspark.io
 Domain, tracking.mobileadstrk.com
 Domain, tracking.propellerads.com
 Domain, tracking.softwareadvice.com
@@ -22612,6 +22628,7 @@ Domain, tracking07.ad4game.com
 Domain, tracking08.ad4game.com
 Domain, tracking2.channeladvisor.com
 Domain, tracking2.propellerads.com
+Domain, trackster.avads.net
 Domain, tracy.tutoads.tv
 Domain, trade2025po.com
 Domain, trade360.com
@@ -22719,6 +22736,7 @@ Domain, travogiust.pro
 Domain, travoichza.pro
 Domain, trc.adsage.com
 Domain, trc.contextualadv.com
+Domain, trck.go.emoneyadvisor.com
 Domain, trendads.reactivebetting.com
 Domain, trends.mobile.sina.cn
 Domain, trendsfreshnews.pro
@@ -22731,6 +22749,7 @@ Domain, triduredim.pro
 Domain, tridusexag.pro
 Domain, triforatei.pro
 Domain, trincbever.pro
+Domain, trinidadexpress-tto-ads.sitenm.com
 Domain, trinielixa.pro
 Domain, trinoscier.pro
 Domain, trinuimper.pro
@@ -22785,7 +22804,6 @@ Domain, trueadvantage.pro
 Domain, trullridis.pro
 Domain, truthtellerspeaks.pro
 Domain, trx.adscale.de
-Domain, tryodelorc.amazonaws.com1leadsb2iis3.amazonaws.com499kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirwbstoolsye.eks.callrail.com
 Domain, ts.amazon-adsystem.com
 Domain, tsdflsdk.cypcb.net
 Domain, tt.agrantsem.com
@@ -23281,7 +23299,6 @@ Domain, usc.adserver.snapads.com
 Domain, usciobypas.pro
 Domain, use-bid-dailymotion.adsrvr.org
 Domain, use-tor.adsrvr.org
-Domain, use.adsrvr.org
 Domain, use1-ads-proxy-temp-prebid-v2.yieldmo.com
 Domain, use1-secure.smartadserver.com
 Domain, use1.smartadserver.com
@@ -23314,6 +23331,7 @@ Domain, usw1-secure.smartadserver.com
 Domain, usw1.smartadserver.com
 Domain, usw2-ads-alb.yieldmo.com
 Domain, usw2-ads-proxy-temp-general-v2.yieldmo.com
+Domain, usw3.smartadserver.com
 Domain, uswdirect.adsrvr.org
 Domain, ut.iadsdk.apple.com
 Domain, utdxrr.pro
@@ -23710,6 +23728,7 @@ Domain, vocaltrasc.pro
 Domain, vodus-api-serverless.azurewebsites.net
 Domain, vodus-api.azurewebsites.net
 Domain, vofolie.pro
+Domain, vogel.adspirit.de
 Domain, voguead.adsame.com
 Domain, voiceads.cn
 Domain, voila.refr.adgtw.orangeads.fr
@@ -24019,6 +24038,7 @@ Domain, w26.gskwai.com
 Domain, w27.gskwai.com
 Domain, w28.gskwai.com
 Domain, w29.gskwai.com
+Domain, w2txo5aaxbr3aa6qkmndfvx5vcgladsqpjto4ttmaa5909977f255209sac.d.aa.online-metrix.net
 Domain, w3.gskwai.com
 Domain, w30.gskwai.com
 Domain, w31.gskwai.com
@@ -24225,6 +24245,7 @@ Domain, wlb1.cdn.stickyadstv.com.akadns.net
 Domain, wlb2.cdn.stickyadstv.com.akadns.net
 Domain, wlcoolbet.adsrv.eacdn.com
 Domain, wlfanduelus.adsrv.eacdn.com
+Domain, wlhardrock.adsrv.eacdn.com
 Domain, wlmarathonbet.adsrv.eacdn.com
 Domain, wlmicasino.adsrv.eacdn.com
 Domain, wlneteller.adsrv.eacdn.com
@@ -24232,7 +24253,6 @@ Domain, wlparlayplay.adsrv.eacdn.com
 Domain, wlpinnacle.adsrv.eacdn.com
 Domain, wlsbotop.adsrv.eacdn.com
 Domain, wlsugarhouseaffiliates.adsrv.eacdn.com
-Domain, wlsuperbet.adsrv.eacdn.com
 Domain, wlwilliamhillus.adsrv.eacdn.com
 Domain, wm.baidu.com
 Domain, wm.lrswl.com
@@ -33323,7 +33343,6 @@ Domain, xadsmart.com
 Domain, xanthfolcl.pro
 Domain, xanthprein.pro
 Domain, xapads.com
-Domain, xapads.cpm.ak-is2.net
 Domain, xapads.rtb-useast.ak-is2.net
 Domain, xapi.jads.co
 Domain, xapi.juicyads.com
@@ -33358,9 +33377,7 @@ Domain, xml-console.xapads.com
 Domain, xml-default.xapads.com
 Domain, xml-eu-v4.adsfloow.net
 Domain, xml-eu.flairadscpc.com
-Domain, xml-eu.hueadsxml.com
 Domain, xml-rtb.xapads.com
-Domain, xml-v4.adverttise.com
 Domain, xml-v4.advlistings.com
 Domain, xml-v4.boffoadsfeeds.com
 Domain, xml-v4.staradsmedia.com
@@ -33635,6 +33652,8 @@ Domain, zizzasmiti.pro
 Domain, zlsdk.1rtb.net
 Domain, zmbazwonbn.pro
 Domain, zn25dae8w6yhwz3zs-headspaceresearch.siteintercept.qualtrics.com
+Domain, zn2fbeqwshmuyrkad-twia.siteintercept.qualtrics.com
+Domain, zn5w1o4oy3uonrtb4-adspipe.siteintercept.qualtrics.com
 Domain, zn6qlz2bydohwnway-tripadvisor.siteintercept.qualtrics.com
 Domain, zn8oh78in97qktkhe-tripadvisor.siteintercept.qualtrics.com
 Domain, znca5uksadxzw1dkb-nestlewaterscx.siteintercept.qualtrics.com
