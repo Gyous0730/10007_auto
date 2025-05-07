@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-05-07 09:44:58
-! 规则数量: 39277
+! Last modified: 2025-05-07 21:15:23
+! 规则数量: 39266
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -5140,7 +5140,6 @@
 ||ads5-normal-lq.zijieapi.com^
 ||ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net^
 ||ads5-normal.zijieapi.com^
-||ads5.admatic.com.tr^
 ||ads5.advance.net^
 ||ads5.contentabc.com^
 ||ads5.fxdepo.com^
@@ -5875,7 +5874,6 @@
 ||adservingfactory.com^
 ||adservingfront.com^
 ||adservings.ru^
-||adservob.com^
 ||adservone.com^
 ||adservrs.com^
 ||adservrs.com.edgekey.net^
@@ -6046,7 +6044,6 @@
 ||adspeed.net^
 ||adspend.space^
 ||adsperfection.g2afse.com^
-||adspi.xyz^
 ||adspire.io^
 ||adspirit.de^
 ||adspirit.net^
@@ -6626,7 +6623,6 @@
 ||advimage.bolink.club^
 ||advimg.ad-mapps.com^
 ||advincent.com^
-||adviseforty.com^
 ||adviser.bs-dante.ru^
 ||advisible.com^
 ||advision-adnw.genieesspv.jp^
@@ -8012,7 +8008,6 @@
 ||api.applovefrom.com^
 ||api.applovin.com^
 ||api.appmetrica.yandex.ru^
-||api.appnxt.net^
 ||api.appodeal.com^
 ||api.appodealx.com^
 ||api.appprodus.platform.navify.com^
@@ -8128,6 +8123,7 @@
 ||api.content.ad^
 ||api.cooladata.com^
 ||api.coolguang.com^
+||api.counterapi.dev^
 ||api.country.is^
 ||api.cpu.baidu.com^
 ||api.cquotient.com^
@@ -8402,7 +8398,6 @@
 ||api.mobilem.360.cn^
 ||api.mobio.vn^
 ||api.mobitech-content.xyz^
-||api.mobojoy.baidu.com^
 ||api.mobpowertech.com^
 ||api.mobrtb.com^
 ||api.mobshark.net^
@@ -8525,7 +8520,6 @@
 ||api.products.kameleoon.com^
 ||api.prooffactor.com^
 ||api.proofpositivemedia.com^
-||api.proper.io^
 ||api.proxistore.com^
 ||api.pub.network^
 ||api.pubfinity.com^
@@ -17263,7 +17257,6 @@
 ||leads.radioedit.iheart.com^
 ||leads.su^
 ||leads.traffichaus.com^
-||leads2.specificmedia.com^
 ||leadsecnow.com^
 ||leadsfoundrygmbs.com^
 ||leadshurriedlysoak.com^
@@ -20225,7 +20218,6 @@
 ||playaquadr.pro^
 ||playbuzzmm.ads.tremorhub.com^
 ||playbuzzmobileweb.ads.tremorhub.com^
-||player-aws.ads.152media.com^
 ||player.ad-adapex.io^
 ||player.ads.152media.com^
 ||player.adservrs.com^
@@ -22855,7 +22847,6 @@
 ||sdk.adx.adwangmai.com^
 ||sdk.airbridge.io^
 ||sdk.apester.com^
-||sdk.api.altamob.com^
 ||sdk.api.bjshcw.com^
 ||sdk.api.kaffnet.com^
 ||sdk.api.oaid.wocloud.cn^
@@ -26428,7 +26419,6 @@
 ||usciobypas.pro^
 ||use-bid-dailymotion.adsrvr.org^
 ||use-tor.adsrvr.org^
-||use.adsrvr.org^
 ||use1-ads-proxy-temp-prebid-v3.yieldmo.com^
 ||use1-secure.smartadserver.com^
 ||use1.smartadserver.com^
@@ -27997,7 +27987,6 @@
 ||www.ad-cloud.jp^
 ||www.ad-diactivat.pages.dev^
 ||www.ad-fuse.com^
-||www.ad-lister.co.uk^
 ||www.ad-net.co.uk^
 ||www.ad-server.eu^
 ||www.ad-souk.com^
