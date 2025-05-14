@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-05-14 09:45:49
-! 规则数量: 39866
+! Last modified: 2025-05-14 22:22:01
+! 规则数量: 39869
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -3004,6 +3004,7 @@
 ||ads-pd.nbcuni.com^
 ||ads-pd.universalsports.com^
 ||ads-pebblemedia.adhese.com^
+||ads-pit-nfl.yinzcam.com^
 ||ads-pixiv.net^
 ||ads-platform.zalo.me^
 ||ads-portal.net^
@@ -6084,6 +6085,7 @@
 ||adspirit.de^
 ||adspirit.info^
 ||adspirit.net^
+||adspixel.network^
 ||adspixle.com^
 ||adsplay.in^
 ||adsplay.net^
@@ -8270,7 +8272,6 @@
 ||api.emma.io^
 ||api.empower.net^
 ||api.engage-conversations.meltwater.io^
-||api.engager.ecbsn.com^
 ||api.enginemob.me^
 ||api.enjoyadsplatform.com^
 ||api.ent.mobileanjian.com^
@@ -17550,6 +17551,7 @@
 ||leadsmonitor.io^
 ||leadspace.com^
 ||leadsrx.com^
+||leadsy.ai^
 ||leadsynaptic.go2jump.org^
 ||leafyecho.pro^
 ||lealiimbus.pro^
@@ -21348,6 +21350,7 @@
 ||r.wallstrads.com^
 ||r0.mradx.net^
 ||r2.adwo.com^
+||r2.leadsy.ai^
 ||r3.adwo.com^
 ||ra.gtimg.com^
 ||rabbit.tg.meitu.com^
