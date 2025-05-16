@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-05-16 09:46:18
-! 规则数量: 39639
+! Last modified: 2025-05-16 17:14:45
+! 规则数量: 39635
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -845,7 +845,6 @@
 ||28gtest.bj2cu.u3.ucweb.com^
 ||29gtest.bj2cu.u3.ucweb.com^
 ||2baners.ero-advertising.com^
-||2ca5e9c4-4ee4-4c4b-9fad-41a0467c0adc.rlets.com^
 ||2ciy2-9kbup.ads.tremorhub.com^
 ||2ds.ero-advertising.com^
 ||2fbanners.ero-advertising.com^
@@ -883,7 +882,6 @@
 ||3ds.ero-advertising.com^
 ||3gtest.bj2cu.u3.ucweb.com^
 ||3m.mediav.com^
-||3p-pix.adstk.io^
 ||3px.axp.amazon-adsystem.com^
 ||4.adsco.re^
 ||4.afs.googleadservices.com^
@@ -931,6 +929,7 @@
 ||6psex-axuft.ads.tremorhub.com^
 ||6psex-fm1gy.ads.tremorhub.com^
 ||6psex-sootr.ads.tremorhub.com^
+||6uolf-q3jv3.ads.tremorhub.com^
 ||6uxx3e.skadsdkless.appsflyersdk.com^
 ||789.mobi^
 ||789vg.pro^
@@ -1065,6 +1064,7 @@
 ||aax-eu.amazon-adsystem.com^
 ||aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com^
 ||aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com^
+||aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com^
 ||aax-fe-sin.amazon-adsystem.com^
 ||aax-fe.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
@@ -1293,6 +1293,7 @@
 ||acynoindit.pro^
 ||ad-411.com^
 ||ad-a.juicyad.com^
+||ad-abstatic.smartocto.com^
 ||ad-ace.doubleclick.net^
 ||ad-adapex.io^
 ||ad-admin.vnay.vn^
@@ -1402,6 +1403,7 @@
 ||ad-mapps.com^
 ||ad-material.ys7.com^
 ||ad-maven.com^
+||ad-maven.fs.ak-is2.net^
 ||ad-maven.xml-eu.ak-is2.net^
 ||ad-maven.xml.ak-is2.net^
 ||ad-maven.xs.ak-is2.net^
@@ -1420,7 +1422,6 @@
 ||ad-plus.cn^
 ||ad-plus.com.tr^
 ||ad-r.soulapp.cn^
-||ad-renderer-assets.ads.sportradar.com^
 ||ad-ru-01.p.adserv.ai^
 ||ad-ru-02.p.adserv.ai^
 ||ad-ru-03.p.adserv.ai^
@@ -1672,6 +1673,7 @@
 ||ad.centrum.cz^
 ||ad.cgi.cz^
 ||ad.ch.doubleclick.net^
+||ad.charltonmedia.com^
 ||ad.chatpad.jp^
 ||ad.chieuhoa.com^
 ||ad.choiceradio.com^
@@ -1688,6 +1690,7 @@
 ||ad.clok.creative.com^
 ||ad.cn.doubleclick.net^
 ||ad.contentabc.com^
+||ad.contentango.online^
 ||ad.cooks.com^
 ||ad.cosp.jp^
 ||ad.cq-andc.jp^
@@ -2119,7 +2122,6 @@
 ||ad.soicos.com^
 ||ad.soulapp.cn^
 ||ad.sp.mbga.jp^
-||ad.srvupads.com^
 ||ad.ssp.d2c.ne.jp^
 ||ad.stadtplan.net^
 ||ad.style^
@@ -2874,7 +2876,6 @@
 ||ads-24752.iionads.com^
 ||ads-2476a.iionads.com^
 ||ads-2476b.iionads.com^
-||ads-2476c.iionads.com^
 ||ads-24777.iionads.com^
 ||ads-2477p.iionads.com^
 ||ads-24789.iionads.com^
@@ -2916,8 +2917,8 @@
 ||ads-cdn.fptplay.net^
 ||ads-cdn.loopaautomate.com^
 ||ads-cdn.tenmax.io^
+||ads-chi-nfl.yinzcam.com^
 ||ads-cloud.rovio.com^
-||ads-collector.luizalabs.com^
 ||ads-colruytgroup.adhese.com^
 ||ads-config-engine-noneu.truecaller.com^
 ||ads-config.unityads.unity3d.com^
@@ -2975,6 +2976,7 @@
 ||ads-mediafin.adhese.com^
 ||ads-metadata-prod.zeustechnology.com^
 ||ads-nd85a.ortb.adelement.com^
+||ads-nd85c.ortb.adelement.com^
 ||ads-nd8d1.ortb.adelement.com^
 ||ads-nd8ga.ortb.adelement.com^
 ||ads-nd8lj.ortb.adelement.com^
@@ -2987,7 +2989,6 @@
 ||ads-pd.nbcuni.com^
 ||ads-pd.universalsports.com^
 ||ads-pebblemedia.adhese.com^
-||ads-pit-nfl.yinzcam.com^
 ||ads-pixiv.net^
 ||ads-platform.zalo.me^
 ||ads-portal.net^
@@ -3033,6 +3034,7 @@
 ||ads-tracker.ranfenghd.com^
 ||ads-trk.vidible.tv^
 ||ads-twitter.com^
+||ads-unibet.adhese.com^
 ||ads-us.amillionads.com^
 ||ads-us.loopaautomate.com^
 ||ads-us.pictela.net^
@@ -3481,7 +3483,6 @@
 ||ads.digital.disneyadvertising.com^
 ||ads.digitalacre.com^
 ||ads.digitalalchemy.tv^
-||ads.digitalbee.al^
 ||ads.digitalcaramel.com^
 ||ads.digitalfirstmedia.com^
 ||ads.digitalmedianet.com^
@@ -3532,7 +3533,6 @@
 ||ads.ehealthcaresolutions.com^
 ||ads.einmedia.com^
 ||ads.eircom.net^
-||ads.ekipa.mk^
 ||ads.ekstat.com^
 ||ads.elcarado.com^
 ||ads.electrocelt.com^
@@ -3868,6 +3868,7 @@
 ||ads.livetv791.me^
 ||ads.livetv794.me^
 ||ads.livetv806.me^
+||ads.livetv852.me^
 ||ads.lmmob.com^
 ||ads.localnow.api.cms.amdvids.com^
 ||ads.localyokelmedia.com^
@@ -3978,7 +3979,6 @@
 ||ads.narrowline.com^
 ||ads.nationalreview.com^
 ||ads.nationchannel.com^
-||ads.navymwr.org^
 ||ads.ncm.com^
 ||ads.ndtv1.com^
 ||ads.nerve.com^
@@ -4002,7 +4002,6 @@
 ||ads.newsminerextra.com^
 ||ads.newsobserver.com^
 ||ads.newsquest.co.uk^
-||ads.newtarget.com^
 ||ads.newtention.net^
 ||ads.nexage.com^
 ||ads.nextday.media^
@@ -4028,7 +4027,6 @@
 ||ads.ntadvice.com^
 ||ads.nubiles.net^
 ||ads.nudereviews.com^
-||ads.nuonuo.com^
 ||ads.nyi.net^
 ||ads.nyootv.com^
 ||ads.nytimes.com^
@@ -4408,6 +4406,7 @@
 ||ads.tibaco.net^
 ||ads.tiki.vn^
 ||ads.timesunion.com^
+||ads.tiogol.com^
 ||ads.tirabol.cat^
 ||ads.tiscali.it^
 ||ads.tmcs.net^
@@ -4593,7 +4592,6 @@
 ||ads.world-fusigi.net^
 ||ads.worldstarhiphop.com^
 ||ads.worthplaying.com^
-||ads.wowyowapi.com^
 ||ads.wwe.biz^
 ||ads.x-cdn.org^
 ||ads.x.com^
@@ -4748,7 +4746,6 @@
 ||ads12.unoadsrv.com^
 ||ads12.vertamedia.com^
 ||ads120.adtelligent.com^
-||ads121.adtelligent.com^
 ||ads13-normal-hl.zijieapi.com^
 ||ads13-normal-lf.zijieapi.com^
 ||ads13-normal-lq.zijieapi.com^
@@ -4777,7 +4774,6 @@
 ||ads15.adtelligent.com^
 ||ads15.exoticads.com^
 ||ads15.focalink.com^
-||ads150.adtelligent.com^
 ||ads151.adtelligent.com^
 ||ads152.adtelligent.com^
 ||ads153.adtelligent.com^
@@ -5133,7 +5129,6 @@
 ||ads50.adtelligent.com^
 ||ads50.unoadsrv.com^
 ||ads51.unoadsrv.com^
-||ads52.adtelligent.com^
 ||ads53.adtelligent.com^
 ||ads53.unoadsrv.com^
 ||ads54.adtelligent.com^
@@ -5403,6 +5398,7 @@
 ||adserver.4clicks.org^
 ||adserver.71i.de^
 ||adserver.abv.bg^
+||adserver.activeemails.com^
 ||adserver.adotmob.com^
 ||adserver.adreactor.com^
 ||adserver.adremedy.com^
@@ -5427,6 +5423,7 @@
 ||adserver.asiafriendfinder.com^
 ||adserver.asnetworks.de^
 ||adserver.assistads.net^
+||adserver.associationheadquarters.com^
 ||adserver.atdnetwork.com^
 ||adserver.b2c.com^
 ||adserver.bafrahaber.com^
@@ -5450,6 +5447,7 @@
 ||adserver.chickclick.com^
 ||adserver.click4cash.de^
 ||adserver.clundressed.com^
+||adserver.cnczone.com^
 ||adserver.co.il^
 ||adserver.colleges.com^
 ||adserver.com^
@@ -5475,6 +5473,7 @@
 ||adserver.exgfnetwork.com^
 ||adserver.exoticads.com^
 ||adserver.eyeonx.ch^
+||adserver.fa-mag.com^
 ||adserver.filefront.com^
 ||adserver.fixionmedia.com^
 ||adserver.freeyfi.com^
@@ -5504,7 +5503,6 @@
 ||adserver.industryarena.com^
 ||adserver.info7.mx^
 ||adserver.infotiger.com^
-||adserver.insidertravelreport.com^
 ||adserver.intentiq.com^
 ||adserver.interfree.it^
 ||adserver.inwind.it^
@@ -5701,6 +5699,7 @@
 ||adservice.google.cd^
 ||adservice.google.cf^
 ||adservice.google.cg^
+||adservice.google.ch^
 ||adservice.google.ci^
 ||adservice.google.cl^
 ||adservice.google.cm^
@@ -5831,6 +5830,7 @@
 ||adservice.google.tt^
 ||adservice.google.vu^
 ||adservice.google.ws^
+||adservice.hani.co.kr^
 ||adservice.kugou.com^
 ||adservice.sigmob.cn^
 ||adservice.tohsoft.com^
@@ -5981,7 +5981,6 @@
 ||adsoftware.com^
 ||adsok.co^
 ||adsoldier.com^
-||adsolut.cpm.ak-is2.net^
 ||adsolut.in^
 ||adsolutely.com^
 ||adsolution.de^
@@ -6038,7 +6037,6 @@
 ||adspserving.com^
 ||adspsp.com^
 ||adspublicidades.agency^
-||adspy.javrank.com^
 ||adspygl.xyz^
 ||adspyglass.com^
 ||adsqqclick.qq.com^
@@ -6103,7 +6101,6 @@
 ||adstargets.com^
 ||adstargetx.com^
 ||adstartmedia.g2afse.com^
-||adstat.ad3g.com^
 ||adstat.izuiyou.com^
 ||adstatic.b-cdn.net^
 ||adstatic.zhihu.com^
@@ -6115,7 +6112,6 @@
 ||adstax-match.adrtx.net^
 ||adstdg.net^
 ||adstean.com^
-||adstella-cdn.relevant-digital.com^
 ||adsteroid.pro^
 ||adsterra.com^
 ||adstest.reklamstore.com^
@@ -6344,6 +6340,7 @@
 ||advack.net^
 ||advaction.ru^
 ||advally-baseballamerica-tagan.adlightning.com^
+||advally-mcm-tagan.adlightning.com^
 ||advalo.com^
 ||advancdsports.com^
 ||advance-auto-parts.evyy.net^
@@ -6374,6 +6371,7 @@
 ||advancedtrustedbusinessesimmediate.top^
 ||advancedworld.site^
 ||advancelocal.blueconic.net^
+||advancelocalmediallc-clevelandcom.adsbynimbus.com^
 ||advancelocalmediallc-mlivecom.adsbynimbus.com^
 ||advancelocalmediallc-njcom.adsbynimbus.com^
 ||advancelocalmediallc-oregonlivecom.adsbynimbus.com^
@@ -6412,7 +6410,6 @@
 ||adventurefeeds-dsp-1.rtb.adx1.com^
 ||adventurefeeds.com^
 ||adventurefeeds.xml-eu.ak-is2.net^
-||adventurefeeds.xml-v4.ak-is2.net^
 ||adventurefeeds.xml-v6.ak-is2.net^
 ||adventurefeeds.xml.ak-is2.net^
 ||adventuregamers.xyz^
@@ -6570,7 +6567,6 @@
 ||adverts.creativemark.co.uk^
 ||adverts.ecn.co.uk^
 ||adverts.freeloader.com^
-||advertsdata.com^
 ||advertserve.com^
 ||advertsight.com^
 ||advertsource.co.uk^
@@ -6587,6 +6583,7 @@
 ||adviad.com^
 ||adviap.goforandroid.com^
 ||advice-ads-cdn.vice.com^
+||advice.api.useinsider.com^
 ||advice.pgs.io^
 ||adviceforemost.com^
 ||adviceth.api.useinsider.com^
@@ -6613,6 +6610,7 @@
 ||advisionsort.yicha.jp^
 ||advisionweb.yicha.jp^
 ||advisionwebp.yicha.jp^
+||advisorapi.purplepatch.online^
 ||advisorbailedroof.com^
 ||advisorhurtfulqueen.com^
 ||advisormedia.cz^
@@ -6706,6 +6704,7 @@
 ||adx-fk-req.mosspf.com^
 ||adx-fk-req.mosspf.net^
 ||adx-fk-req.mossru.com^
+||adx-fk-request.mosspf.com^
 ||adx-fk-weight.mosspf.com^
 ||adx-id.ads.heytapmobi.com^
 ||adx-id.ads.heytapmobile.com^
@@ -6733,7 +6732,9 @@
 ||adx-sg-req.mosspf.com^
 ||adx-sg-req.mosspf.net^
 ||adx-sg-req.mossru.com^
+||adx-sg-req.toponadss.com^
 ||adx-sg-request.anythinktech.com^
+||adx-sg-weight.mosspf.com^
 ||adx-sg.ads.heytapmobi.com^
 ||adx-sg.ads.heytapmobile.com^
 ||adx-sg.anythinktech.com^
@@ -6751,6 +6752,7 @@
 ||adx-vg-req.mosspf.net^
 ||adx-vg-req.mossru.com^
 ||adx-vg-request.anythinktech.com^
+||adx-vg-request.mosspf.com^
 ||adx-vg-weight.mosspf.com^
 ||adx-vn.ads.heytapmobile.com^
 ||adx-west-imp.aarki.net^
@@ -7236,7 +7238,6 @@
 ||analytics.admon.com.vn^
 ||analytics.adpost.org^
 ||analytics.adultswim.co.uk^
-||analytics.advalo.com^
 ||analytics.algoepico.net^
 ||analytics.amakings.com^
 ||analytics.ambient-platform.com^
@@ -8020,6 +8021,7 @@
 ||api.bachhoa88.com^
 ||api.bailingjiankang.com^
 ||api.bam-x.com^
+||api.bandwidthx.net^
 ||api.bannerflow.com^
 ||api.bayimob.com^
 ||api.bbs.miui.com^
@@ -8051,7 +8053,6 @@
 ||api.bridgeoos.com^
 ||api.britepool.com^
 ||api.briteverify.com^
-||api.broadbandy.net^
 ||api.browsee.io^
 ||api.browsekeeper.com^
 ||api.browser.intl.miui.com^
@@ -8073,7 +8074,6 @@
 ||api.campaigns.notino.com^
 ||api.caroda.io^
 ||api.cartsee.cartx.cloud^
-||api.cashback.co.uk^
 ||api.cazamba.com^
 ||api.ceva.exponea.com^
 ||api.chartbeat.com^
@@ -8084,7 +8084,6 @@
 ||api.cityads.com^
 ||api.citygridmedia.com^
 ||api.ciuvo.com^
-||api.civisanalytics.com^
 ||api.clarity.abacast.com^
 ||api.cleverpush.com^
 ||api.clickaine.com^
@@ -8095,7 +8094,6 @@
 ||api.cludo.com^
 ||api.coinerra.com^
 ||api.collect.data.intl.miui.com^
-||api.compado.com^
 ||api.company-target.com^
 ||api.competition.intl.miui.com^
 ||api.condenast.io^
@@ -8103,7 +8101,6 @@
 ||api.connecto.io^
 ||api.content-ad.net^
 ||api.content.ad^
-||api.convrse.media^
 ||api.cooladata.com^
 ||api.coolguang.com^
 ||api.counterapi.dev^
@@ -8214,8 +8211,6 @@
 ||api.geb.synerise.com^
 ||api.geniee.jp^
 ||api.getdrip.com^
-||api.getjad.io^
-||api.getjan.io^
 ||api.getpush.net^
 ||api.getui.com^
 ||api.gi.igexin.com^
@@ -8301,7 +8296,6 @@
 ||api.jun88.tv^
 ||api.june.so^
 ||api.kaffnet.com^
-||api.kaiu-marketing.com^
 ||api.kameleoon.com^
 ||api.keen.io^
 ||api.kickfire.com^
@@ -8395,7 +8389,6 @@
 ||api.mosspf.net^
 ||api.mossru.com^
 ||api.mp.uc.cn^
-||api.mp3vel.trafficjunky.com^
 ||api.mu88.mu^
 ||api.mu9.club^
 ||api.mu9.com^
@@ -8438,7 +8431,6 @@
 ||api.onestart.ai^
 ||api.onetag.com^
 ||api.ootoo.co.kr^
-||api.open.adsaide.cn^
 ||api.open.oppomobile.com^
 ||api.openads.ai^
 ||api.openinstall.io^
@@ -8527,7 +8519,6 @@
 ||api.radar.io^
 ||api.rakutenadvertising.io^
 ||api.ranking.rakuten.co.jp^
-||api.ravelin.net^
 ||api.raygun.io^
 ||api.reachads.com^
 ||api.realtimely.io^
@@ -8710,7 +8701,6 @@
 ||api.uniplayad.com^
 ||api.uniqodo.com^
 ||api.unthem.com^
-||api.upliftads.io^
 ||api.uprivaladserver.net^
 ||api.urioy.com^
 ||api.us-east-1.aiv-delivery.net^
@@ -8843,6 +8833,7 @@
 ||app.medyanetads.com^
 ||app.push-ad.com^
 ||app.slimads.vn^
+||app.theadx.com^
 ||app.toponad.com^
 ||app.us.adjust.com^
 ||app.xdrig.com^
@@ -9083,7 +9074,6 @@
 ||assetrinzu.pro^
 ||assets.adspruce.com^
 ||assets.adstage.io^
-||assets.adv.aryel.io^
 ||assets.buysellads.com^
 ||assets.cntdy.mobi^
 ||assets.deployads.com^
@@ -9347,7 +9337,6 @@
 ||b.vlion.cn^
 ||b1-data.ads.heytapmobi.com^
 ||b1.ads.oppomobile.com^
-||b1028as.adspirit.de^
 ||b2-data.ads.heytapmobi.com^
 ||b4d7f9ad-9746-4daa-b552-8205ef41f49d.edge.permutive.app^
 ||b52.mobi^
@@ -9592,7 +9581,6 @@
 ||bbads.sv.publicus.com^
 ||bbads.sx.atl.publicus.com^
 ||bbangads.b-cdn.net^
-||bbp.ads-dev.sportradar.com^
 ||bc-ssb-iad.springserve.com^
 ||bc.ad.daum.net^
 ||bcc-ads.com^
@@ -9730,6 +9718,7 @@
 ||bid.adview.com^
 ||bid.adx.com.ru^
 ||bid.g.doubleclick.net^
+||bid2.advlion.com^
 ||bidagent.xad.com^
 ||bidder.cleanmediaads.com^
 ||bidder.teads.tv^
@@ -10121,6 +10110,7 @@
 ||br.adspecs.yahoo.com^
 ||braccoscur.pro^
 ||braccsuith.pro^
+||brackenads.com^
 ||bradsdependableappliance.com^
 ||bradsdesignerbreads.com^
 ||brahmsocco.pro^
@@ -10592,7 +10582,6 @@
 ||cadsans.com^
 ||cadsecs.com^
 ||cadstandardparts.com^
-||cadsuta.net^
 ||caecotanac.pro^
 ||caesar.iad-03.braze.com^
 ||cafonnevic.pro^
@@ -11512,7 +11501,6 @@
 ||click.adsmartracker.com^
 ||click.adv.livedoor.com^
 ||click.advertnative.com^
-||click.adx.roockmobile.com^
 ||click.affiliate.ameba.jp^
 ||click.airmalta-mail.com^
 ||click.alibaba.com^
@@ -11684,6 +11672,7 @@
 ||cls.ad-tech.ru^
 ||clubhmisre.pro^
 ||clueldextr.pro^
+||clzbmn.skadsdk.appsflyersdk.com^
 ||clzbmn.skadsdkless.appsflyersdk.com^
 ||cm.admaster.com.cn^
 ||cm.adsafety.net^
@@ -12096,6 +12085,7 @@
 ||corp.sohu.com^
 ||corpobenni.pro^
 ||corpusferr.pro^
+||corridorbusiness.advertserve.com^
 ||corroridav.pro^
 ||corruflood.pro^
 ||cors.hot-mob.com^
@@ -12198,7 +12188,6 @@
 ||cr-p28.ladsp.com^
 ||cr-p3.ladsp.com^
 ||cr-p3.ladsp.jp^
-||cr-p30.ladsp.com^
 ||cr-p31.ladsp.com^
 ||cr-p31.ladsp.jp^
 ||cr-p35.ladsp.jp^
@@ -12630,7 +12619,6 @@
 ||dazzlingvortex.pro^
 ||dazzmeup.pro^
 ||db.adswag.nl^
-||db.advertsdata.com^
 ||db02cyz1aujy9.moatads.com^
 ||dbg52463.moatads.com^
 ||dbta.ero-advertising.com^
@@ -13538,6 +13526,7 @@
 ||dsp.adspyglass.com^
 ||dsp.adviad.com^
 ||dsp.api.vungle.com^
+||dsp.brackenads.com^
 ||dsp.cityads.com^
 ||dsp.hot-mob.com^
 ||dsp.myads.telkomsel.com^
@@ -13596,7 +13585,6 @@
 ||dynad-list.dynad.net^
 ||dynamic-ads.appier.net^
 ||dynamic-dns.net^
-||dynamic.adserve.zone^
 ||dynamicbizdaily.pro^
 ||dynamicchange.pro^
 ||dynamicdescription.pro^
@@ -13642,6 +13630,8 @@
 ||e0.extreme-dm.com^
 ||e1.extreme-dm.com^
 ||e2.extreme-dm.com^
+||e7246.adserverevent.com^
+||e73176.adserverevent.com^
 ||ead-soft.popunder.ru^
 ||eadizuentin.pro^
 ||eads.com^
@@ -13674,6 +13664,7 @@
 ||ebayadvertising.com^
 ||ebayadvertising.triadretail.net^
 ||ebiads.ebiuniverse.com^
+||ebiquity.eu.adverity.com^
 ||ebonyroadrunner.pro^
 ||ebook-res.meizu.com^
 ||ebook.res.meizu.com^
@@ -13742,7 +13733,6 @@
 ||editor-upload-cdn.optimonk.com^
 ||editoralra.pro^
 ||editosedim.pro^
-||edqsadx4.alphonso.tv^
 ||edu-ad-test-cdn.cdn.bcebos.com^
 ||eduardorodrigues.adv.br^
 ||educadisag.pro^
@@ -14069,7 +14059,6 @@
 ||eu-prog-pix.adstk.io^
 ||eu-ssp-pix.adstk.io^
 ||eu-vast.unoadsrv.com^
-||eu-west-1-ads.superawesome.tv^
 ||eu-west-1-sync.ads.yieldmo.com^
 ||eu-west-1.ads.digital.disneyadvertising.com^
 ||eu-west-1.prod.skywave.jetstream.advertising.a2z.com^
@@ -14078,6 +14067,7 @@
 ||eu-west.ono.axp.amazon-adsystem.com^
 ||eu.ads.audio.thisisdax.com^
 ||eu.adventori.com^
+||eu.adverity.com^
 ||eu.event.cmp.advertising.com^
 ||eu.hsdkeer.com^
 ||eu.track.digitaladsystems.com^
@@ -14143,6 +14133,7 @@
 ||events.op.hicloud.com^
 ||events.op.hihonorcloud.com^
 ||events.samsungads.com^
+||events.us-east-1.v3.awesomeads.superawesome.tv^
 ||everember.pro^
 ||everestads.net^
 ||evergreenadvertising.org^
@@ -14378,6 +14369,7 @@
 ||filter.adsparkmedia.net^
 ||filter.adxfactory.com^
 ||filter.explorads.com^
+||filter.flairadscpc.com^
 ||filter.zentrixads.com^
 ||filter.zeusadx.com^
 ||filteradkernel.adsimilate.com^
@@ -14782,7 +14774,6 @@
 ||g.adnxs.com^
 ||g.ads.cn.miaozhen.com^
 ||g.adspeed.net^
-||g.adxadserv.com^
 ||g.baidu.com^
 ||g.blogads.com^
 ||g.cash-ads.com^
@@ -14877,13 +14868,13 @@
 ||gateway-a.unityads.unity3d.com^
 ||gateway-b.unityads.unity3d.com^
 ||gateway-metal-eu-r5-fo-02.gadsme.com^
-||gateway-metal-eu-r5-fo-04.gadsme.com^
 ||gateway-metal-us-r4-01.gadsme.com^
 ||gateway-metal-us-r4-fo-01.gadsme.com^
 ||gateway-metal-us-r4-fo-02.gadsme.com^
 ||gateway.gen.adsrvr.org^
 ||gateway.ttpsdk.info^
 ||gateway.unityads.unity3d.com^
+||gateway.unityads.unitychina.cn^
 ||gatorleads.co.uk^
 ||gaudiinurb.pro^
 ||gayads.biz^
@@ -14892,7 +14883,6 @@
 ||gazusie1.pro^
 ||gbads.net^
 ||gbp.ebayadvertising.triadretail.net^
-||gc-adsrv-static.rtbsuperhub.com^
 ||gcads.osdn.com^
 ||gcd.mmstat.com^
 ||gcdn.2mdn.net^
@@ -16635,6 +16625,7 @@
 ||inurbgrigi.pro^
 ||inusubidemu.pro^
 ||inv-eu-adxwl.admixer.net^
+||inv-nyc-adxwl.admixer.net^
 ||invagtabac.pro^
 ||invalostar.pro^
 ||invanaggru.pro^
@@ -16980,6 +16971,7 @@
 ||js-api.otherlevels.com^
 ||js-eu1.hsadspixel.net^
 ||js-na2.hsadspixel.net^
+||js-na3.hsadspixel.net^
 ||js.ad-score.com^
 ||js.ad-stir.com^
 ||js.ad7.com^
@@ -17297,7 +17289,6 @@
 ||lb-adsdis.mng-ads.com^
 ||lb-adsmob.mng-ads.com^
 ||lb.aaxads.com^
-||lb.analytics.advalo.com^
 ||lb.gtimg.com^
 ||lb.l.qq.com^
 ||lb3.aaxads.com^
@@ -17546,7 +17537,6 @@
 ||lnpost-pl.check-buy1617.shop^
 ||lnpost-pl.check-buy230.shop^
 ||load-apne1.exelator.com^
-||load-euc1.exelator.com^
 ||load-euw1.exelator.com^
 ||load-use1.exelator.com^
 ||load-usw2.exelator.com^
@@ -17599,6 +17589,7 @@
 ||lopatrarc.pro^
 ||lordacospi.pro^
 ||lordofads.com^
+||losspreventionmedia.advertserve.com^
 ||lostcitiesrediscovered.pro^
 ||lottefeten.pro^
 ||lottery.flygame.io^
@@ -18546,7 +18537,6 @@
 ||mugilsfogn.pro^
 ||mugneequin.pro^
 ||mukluundet.pro^
-||muliphein.iad-01.braze.com^
 ||mullarequi.pro^
 ||multi-az-ad.kuaishou.cn^
 ||multipromi.pro^
@@ -18649,10 +18639,8 @@
 ||n.pc1ads.com^
 ||n.pcads.ru^
 ||n.vlion.cn^
-||n1.mixadvert.com^
 ||n1.smartyads.com^
 ||n149adserv.com^
-||n2.mixadvert.com^
 ||n2.smartyads.com^
 ||n4.adsco.re^
 ||n4.smartyads.com^
@@ -18680,6 +18668,7 @@
 ||nad.leadboltads.net^
 ||nados-lb-iad.moatads.com^
 ||nados-lb-phx.moatads.com^
+||nados-lb-syd.moatads.com^
 ||nads.io^
 ||nafteteser.pro^
 ||naiadsystems.com^
@@ -18796,7 +18785,6 @@
 ||nesiziy.pro^
 ||net.salmonads.com^
 ||net.urbanpeakloop.pro^
-||netaddiction.rtb.monetixads.com^
 ||netads.hotwired.com^
 ||netpointmedia.rtb.monetixads.com^
 ||netsolads.com^
@@ -19104,6 +19092,7 @@
 ||obo.moatads.com^
 ||obolehumil.pro^
 ||obovapoltr.pro^
+||obpaid.teads.tv^
 ||observantrat.pro^
 ||obsidianabysswaits.pro^
 ||obtemcondo.pro^
@@ -19257,7 +19246,6 @@
 ||open-pixon.ads-pixiv.net^
 ||open-ticket-e7915.firebaseapp.com^
 ||open.admaster.com.cn^
-||open.adsaide.cn^
 ||open.adview.cn^
 ||open.e.kuaishou.cn^
 ||open.icast.cn^
@@ -19319,6 +19307,7 @@
 ||optimus.ipinyou.com^
 ||optollitt.pro^
 ||optoutadvertising.com^
+||optumads.com^
 ||opunzdisac.pro^
 ||opus.analytics.yahoo.com^
 ||oracucanna.pro^
@@ -20837,7 +20826,6 @@
 ||pubads-wiinvent.tv360.vn^
 ||pubads.g.doubleclick.net^
 ||pubads.g.doubleclick.uk.net^
-||pubads.gamob.com^
 ||pubads.wiinvent.tv^
 ||pubadx.one^
 ||pubbldisna.pro^
@@ -20860,6 +20848,7 @@
 ||publishers.gourmetads.com^
 ||publishers.propellerads.com^
 ||publiuncon.pro^
+||publyads.jstag.space^
 ||pubudoy.pro^
 ||pubuwie9.pro^
 ||pucciuplif.pro^
@@ -20969,6 +20958,7 @@
 ||q14.cnzz.com^
 ||q6.yovoads.com^
 ||q6static.yovoads.com^
+||q9iyje.skadsdkless.appsflyersdk.com^
 ||qa.ads.justpremium.com^
 ||qapm.baidu.com^
 ||qappcenterv6.3g.qq.com^
@@ -21207,7 +21197,6 @@
 ||radio.stickyadstv.com^
 ||radiobuona.pro^
 ||radiodisgr.pro^
-||radiofx-wowonews.adsbynimbus.com^
 ||radiomenzi.pro^
 ||radioraddo.pro^
 ||radiorotam.pro^
@@ -22142,8 +22131,6 @@
 ||rtb-csync-use2.smartadserver.com^
 ||rtb-csync-usw1.smartadserver.com^
 ||rtb-csync.smartadserver.com^
-||rtb-eu.adsolut.in^
-||rtb-eu.boffoadsapi.com^
 ||rtb-eu.mfadsrvr.com^
 ||rtb-eu.rtbflairads.com^
 ||rtb-lb-event-tm-iad-tm.everesttech.net^
@@ -22169,7 +22156,6 @@
 ||rtb.adview.cn^
 ||rtb.adx1.com^
 ||rtb.adxpremium.services^
-||rtb.avads.net^
 ||rtb.beesads.com^
 ||rtb.djaxadserver.com^
 ||rtb.ero-advertising.com^
@@ -22251,6 +22237,7 @@
 ||rvpadvertisingnetwork.com^
 ||rxblxg.pro^
 ||rxddsdpgljsl.pro^
+||rxewp4.skadsdkless.appsflyersdk.com^
 ||ryduvou0.pro^
 ||rygyvoe.pro^
 ||ryjesii4.pro^
@@ -22306,6 +22293,7 @@
 ||s.mixadvert.com^
 ||s.moatads.com^
 ||s.ortb.unoadsrv.com^
+||s.sbt.smartyads.com^
 ||s.thecoreadv.com^
 ||s.union.360.cn^
 ||s.unoadsrv.com^
@@ -22410,7 +22398,6 @@
 ||s28.cnzz.com^
 ||s29.cnzz.com^
 ||s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com^
-||s2s-pdx.pg.bid-na.ads.aps.amazon-adsystem.com^
 ||s2s-sc-main-was.adservrs.com^
 ||s2s.adjust.com^
 ||s2s.pg.bid-na.ads.aps.amazon-adsystem.com^
@@ -22680,9 +22667,12 @@
 ||sbianmisex.pro^
 ||sbilugrati.pro^
 ||sbm1.bcc-ads.com^
+||sbm10.bcc-ads.com^
+||sbm11.bcc-ads.com^
 ||sbm12.bcc-ads.com^
 ||sbm13.bcc-ads.com^
 ||sbm14.bcc-ads.com^
+||sbm2.bcc-ads.com^
 ||sbm3.bcc-ads.com^
 ||sbm4.bcc-ads.com^
 ||sbm5.bcc-ads.com^
@@ -22701,6 +22691,7 @@
 ||sbricsgobb.pro^
 ||sbrigguber.pro^
 ||sbs-ad.com^
+||sbt.smartyads.com^
 ||sbuccbrine.pro^
 ||sbucccitt.pro^
 ||sbuccillum.pro^
@@ -22855,6 +22846,7 @@
 ||scontsbass.pro^
 ||scopely-dicewithbuddies.adsbynimbus.com^
 ||scopely-scrabblego.adsbynimbus.com^
+||scopely-wheeloffortune.adsbynimbus.com^
 ||scopely-yahtzeewithbuddies.adsbynimbus.com^
 ||scopepizzi.pro^
 ||scoppeserc.pro^
@@ -22866,6 +22858,8 @@
 ||scorcpuckb.pro^
 ||scorcrisof.pro^
 ||scoremobileinc-thescore.adsbynimbus.com^
+||scoremobileinc-thescorevideo.adsbynimbus.com^
+||scoresapp-baseballmlblivescores.adsbynimbus.com^
 ||scoring.unoadsrv.com^
 ||scorncompu.pro^
 ||scornincri.pro^
@@ -22911,7 +22905,6 @@
 ||sculdcocks.pro^
 ||scutichapi.pro^
 ||scvapi.eu.ap.acxiom.com^
-||scvapi.eu.autodiscover.ap.acxiom.com^
 ||scvapi.eumail.ap.acxiom.com^
 ||sd.360.cn^
 ||sdfp.snssdk.com^
@@ -23706,7 +23699,6 @@
 ||skyideacold.pro^
 ||skylightwonders.pro^
 ||skyline-nexus-pro.net^
-||skymedia.adsmeasurement.com^
 ||skymeltwarm.pro^
 ||skypicker-api.infinario.com^
 ||skyskycold.pro^
@@ -23861,7 +23853,6 @@
 ||sociaalpin.pro^
 ||sociablealpaca.pro^
 ||sociablesawfly.pro^
-||social-ad-builder.fresh8.co^
 ||soduryi6.pro^
 ||soequaetba.pro^
 ||sofaitdoo-sofascore.adsbynimbus.com^
@@ -25160,6 +25151,7 @@
 ||tapepredesn.pro^
 ||tapixesa.pro^
 ||tapjoyads.com^
+||tappads.io^
 ||tapulsads.ru^
 ||tarabesame.pro^
 ||targetads.io^
@@ -25184,6 +25176,7 @@
 ||tatinuy.pro^
 ||tattitener.pro^
 ||tatuasensa.pro^
+||taukibreez.iad-03.braze.com^
 ||taulcalaba.pro^
 ||tauntscatt.pro^
 ||tautoeffet.pro^
@@ -25486,18 +25479,18 @@
 ||tm2.r-ad.ne.jp^
 ||tm703.ad-srv.net^
 ||tm704.ad-srv.net^
+||tm705.ad-srv.net^
 ||tm706.ad-srv.net^
 ||tm707.ad-srv.net^
 ||tm708.ad-srv.net^
 ||tm709.ad-srv.net^
 ||tm710.ad-srv.net^
 ||tm713.ad-srv.net^
-||tm716.ad-srv.net^
-||tm717.ad-srv.net^
+||tm718.ad-srv.net^
 ||tm721.ad-srv.net^
+||tm722.ad-srv.net^
 ||tm724.ad-srv.net^
 ||tm726.ad-srv.net^
-||tm727.ad-srv.net^
 ||tm728.ad-srv.net^
 ||tm729.ad-srv.net^
 ||tm730.ad-srv.net^
@@ -25773,7 +25766,6 @@
 ||tracking2.channeladvisor.com^
 ||tracking2.propellerads.com^
 ||trackproads.com^
-||trackster.avads.net^
 ||tracogreis.pro^
 ||tractusuri.pro^
 ||tracy.tutoads.tv^
@@ -26531,6 +26523,7 @@
 ||us-east-1.prod.pr.analytics.console.aws.a2z.com^
 ||us-east-1.prod.skywave.jetstream.advertising.a2z.com^
 ||us-east-1.stinger-ad.bidr.io^
+||us-east-1.v3.awesomeads.superawesome.tv^
 ||us-east-2.prod.pr.analytics.console.aws.a2z.com^
 ||us-east-ad-track.aralego.com^
 ||us-east-ads.aralego.com^
@@ -26564,7 +26557,6 @@
 ||usciobypas.pro^
 ||use-bid-dailymotion.adsrvr.org^
 ||use-tor.adsrvr.org^
-||use.adsrvr.org^
 ||use1-ads-proxy-temp-prebid-v3.yieldmo.com^
 ||use1-secure.smartadserver.com^
 ||use1.smartadserver.com^
@@ -26603,7 +26595,6 @@
 ||usw2-ads-alb.yieldmo.com^
 ||usw2-ads-proxy-temp-general-v2.yieldmo.com^
 ||usw2.smartadserver.com^
-||usw3.smartadserver.com^
 ||uswdirect.adsrvr.org^
 ||ut.iadsdk.apple.com^
 ||utdxrr.pro^
@@ -26994,7 +26985,6 @@
 ||vindlaggi.pro^
 ||vineyinval.pro^
 ||vintagehaven.pro^
-||vinted-1.leadsmonitor.io^
 ||vinted-pl.check-buy100.shop^
 ||vinted-pl.check-buy103.shop^
 ||vinted-pl.check-buy104.shop^
@@ -27455,6 +27445,7 @@
 ||wahacondrax.iad-03.braze.com^
 ||wailtofolgo.pro^
 ||wakenveggh.pro^
+||wallapi.tappads.io^
 ||walle.bayescom.com^
 ||wallet.advcash.com^
 ||wamekcg9bio2fmn9320icu90.boldtraveladventures.com^
@@ -29873,7 +29864,6 @@
 ||www.caditstecc.pro^
 ||www.cadrechco.pro^
 ||www.cadstandardparts.com^
-||www.cadsuta.net^
 ||www.cadvision.com^
 ||www.caecotanac.pro^
 ||www.cafonnevic.pro^
@@ -40018,13 +40008,18 @@
 ||xmadsdk.cos.tx.xmcdn.com^
 ||xml-console.xapads.com^
 ||xml-default.xapads.com^
+||xml-eu-v4.winkleads.com^
+||xml-eu-v4.zentrixads.com^
 ||xml-eu.flairadscpc.com^
 ||xml-rtb.xapads.com^
 ||xml-v4.advlistings.com^
+||xml-v4.adxpoint.com^
 ||xml-v4.boffoadsfeeds.com^
 ||xml-v4.staradsmedia.com^
+||xml-v4.tenxads.com^
 ||xml-v4.winkleads.com^
 ||xml-v4.zentrixads.com^
+||xml-v4.zeusadx.com^
 ||xml.ad-maven.com^
 ||xml.adservme.com^
 ||xml.adsparkmedia.net^
@@ -40038,6 +40033,7 @@
 ||xml.flairadscpc.com^
 ||xml.hueadsxml.com^
 ||xml.kunvertads.com^
+||xml.optumads.com^
 ||xml.zaimads.com^
 ||xml.zeusadx.com^
 ||xml1-v4.admeridianads.com^
