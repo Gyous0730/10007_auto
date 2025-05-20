@@ -3,8 +3,8 @@
 ! Title: Host 10007
 ! Homepage: https://github.com/lingeringsound/10007_auto
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto
-! Last modified: 2025-05-20 09:46:52
-! 规则数量: 39799
+! Last modified: 2025-05-20 22:21:18
+! 规则数量: 39803
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
@@ -8616,6 +8616,7 @@
 ||api.rnet.plus^
 ||api.rollbar.com^
 ||api.rqmob.com^
+||api.rtvrapi.com^
 ||api.rtxplatform.com^
 ||api.rubyblu.com^
 ||api.rudderlabs.com^
@@ -8832,6 +8833,7 @@
 ||api.wootric.com.herokudns.com^
 ||api.wsq.umeng.com^
 ||api.wx.my7v.com^
+||api.xcultur.com^
 ||api.xdirectx.com^
 ||api.xiaohuxi.cn^
 ||api.xmpush.global.xiaomi.com^
@@ -12389,6 +12391,7 @@
 ||crossnemal.pro^
 ||crossroadsubquery.com^
 ||crouchinghoatzin.pro^
+||crownadvertising.ca^
 ||crowssobbo.pro^
 ||crs.baidu.com^
 ||crucicalci.pro^
@@ -30973,6 +30976,7 @@
 ||www.cronotatam.pro^
 ||www.crossnemal.pro^
 ||www.crouchinghoatzin.pro^
+||www.crownadvertising.ca^
 ||www.crowssobbo.pro^
 ||www.crucicalci.pro^
 ||www.crucipropl.pro^
